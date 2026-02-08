@@ -1,0 +1,13 @@
+{
+  "Name": "Categoria C (mare)",
+  "MaxTimeSeconds": 1800,
+  "RequiredCorrectToPass": 22,
+  "QuestionLists": [
+    { "Path": "QuestionLists\\colreg.json", "Count": 10 },
+    { "Path": "QuestionLists\\marinarie.json", "Count": 4 },
+    { "Path": "QuestionLists\\navigatie.json", "Count": 4 },
+    { "Path": "QuestionLists\\manevra.json", "Count": 4 },
+    { "Path": "QuestionLists\\legislatie.json", "Count": 2 },
+    { "Path": "QuestionLists\\prim ajutor.json", "Count": 2 }
+  ]
+}

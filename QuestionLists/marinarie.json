@@ -1,0 +1,2620 @@
+[
+  {
+    "Statement": "Piesa de rezistența situată în extremitatea prova, constituind o prelungire a chilei, se numește?",
+    "Answers": [
+      {
+        "Text": "contrachilă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "etravă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "carlingă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce reprezintă un cui de strapazan?",
+    "Answers": [
+      {
+        "Text": "un cui de lemn folosit la asamblarea pieselor de rezistența",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un cui de lemn bătut în marginea bordajului, vertical de care se prinde rama",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un cui de lemn, așezat la prova de care se leagă barca",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce folosește podul în cazul zalei de ancora?",
+    "Answers": [
+      {
+        "Text": "zalele de ancora nu au pod",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la ghidare pe nara de ancora",
+        "IsCorrect": false
+      },
+      {
+        "Text": "mărește rezistența la întindere și împiedica încurcarea",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Barbetele sunt bucăți de parâma fixate la prova și pupa bărcii și servesc?",
+    "Answers": [
+      {
+        "Text": "pentru amaraj",
+        "IsCorrect": false
+      },
+      {
+        "Text": "în cazul unei persoane căzută peste bord",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pentru legare sau remorcat",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Parâma obținută din răsucirea a trei șuvițe se numește?",
+    "Answers": [
+      {
+        "Text": "parâmă simplă sau lanțană",
+        "IsCorrect": true
+      },
+      {
+        "Text": "parâmă simplă sau garlin",
+        "IsCorrect": false
+      },
+      {
+        "Text": "parâmă simplă sau cordon",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Apărătoarele gașelor mici la parâme se numesc?",
+    "Answers": [
+      {
+        "Text": "guardaman",
+        "IsCorrect": false
+      },
+      {
+        "Text": "rodanțe",
+        "IsCorrect": true
+      },
+      {
+        "Text": "binte",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Babalele sunt piese metalice din fonta sau otel, simple sau duble și servesc pentru?",
+    "Answers": [
+      {
+        "Text": "întărirea structurii de rezistența a navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ancoraj",
+        "IsCorrect": false
+      },
+      {
+        "Text": "luarea voltelor cu parâme",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "La navele mici locul babalelor poate fi luat de?",
+    "Answers": [
+      {
+        "Text": "trancheti",
+        "IsCorrect": false
+      },
+      {
+        "Text": "tacheți",
+        "IsCorrect": true
+      },
+      {
+        "Text": "turnicheti",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce este operațiunea de matisire?",
+    "Answers": [
+      {
+        "Text": "împreunarea a două capete de parâma sau realizarea unei gașe",
+        "IsCorrect": true
+      },
+      {
+        "Text": "trecerea de la o parâma mai groasă spre una mai subțire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sporirea rezistenței la rupere a parâmei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce reprezintă voltele?",
+    "Answers": [
+      {
+        "Text": "legăturile prin care parâmele se fixează la dispozitivele de legare existente la bord",
+        "IsCorrect": true
+      },
+      {
+        "Text": "totalitatea manevrelor mobile de la bord",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ochiurile făcute de o parâma semirigidă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În cazul unei rame, pană reprezintă?",
+    "Answers": [
+      {
+        "Text": "îngroșarea brațului imediat după manșon",
+        "IsCorrect": false
+      },
+      {
+        "Text": "partea ramei din care este manevrată",
+        "IsCorrect": false
+      },
+      {
+        "Text": "partea lată în forma de lopată",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În general o ancora se compune din următoarele parți :",
+    "Answers": [
+      {
+        "Text": "brațe, fus, diamant, inel, traversa",
+        "IsCorrect": true
+      },
+      {
+        "Text": "traverse, brațe, diamant și eche",
+        "IsCorrect": false
+      },
+      {
+        "Text": "inel, traversa, brațe și pană",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce înțelegeți prin graparea ancorei:",
+    "Answers": [
+      {
+        "Text": "ancora și lanțul sunt suprasolicitate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ancora se târăște pe fundul apei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ancora s-a agățat într-un corp dur pe fundul apei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă o parâma intră în compunerea altei parâme, mai groase, aceasta va purta denumirea de:",
+    "Answers": [
+      {
+        "Text": "lanțană",
+        "IsCorrect": false
+      },
+      {
+        "Text": "garlin",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cordon",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Adâncimea apei se măsoară cu:",
+    "Answers": [
+      {
+        "Text": "lochul",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sonda",
+        "IsCorrect": true
+      },
+      {
+        "Text": "barometrul",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Fiecare rând de scânduri sau de table al învelișului (bordajului) exterior se numește:",
+    "Answers": [
+      {
+        "Text": "traversa",
+        "IsCorrect": false
+      },
+      {
+        "Text": "copastie",
+        "IsCorrect": false
+      },
+      {
+        "Text": "fila",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Un observator care sta pe puntea navei cu fața spre prova, are în dreapta:",
+    "Answers": [
+      {
+        "Text": "bordul babord",
+        "IsCorrect": false
+      },
+      {
+        "Text": "bordul tribord",
+        "IsCorrect": true
+      },
+      {
+        "Text": "cuplul maestru",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cârma se compune din:",
+    "Answers": [
+      {
+        "Text": "pană și eche",
+        "IsCorrect": true
+      },
+      {
+        "Text": "dame și eche",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pană și dama",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ancora cu patru brațe este folosită:",
+    "Answers": [
+      {
+        "Text": "la fluviu și ape interioare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "în golfuri și estuare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la mare în ape de adâncime medie",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "O baba simplă, formată dintr-o singura coloană prevăzuta cu traversa se numește:",
+    "Answers": [
+      {
+        "Text": "tranchet",
+        "IsCorrect": false
+      },
+      {
+        "Text": "turnichet",
+        "IsCorrect": false
+      },
+      {
+        "Text": "binta",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Piesele metalice de ghidare a parâmelor eliminând frecarea se numesc:",
+    "Answers": [
+      {
+        "Text": "binte",
+        "IsCorrect": false
+      },
+      {
+        "Text": "babale",
+        "IsCorrect": false
+      },
+      {
+        "Text": "turnicheti",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce reprezintă patronarea unei parâme?",
+    "Answers": [
+      {
+        "Text": "protejarea contra frecării, prin învelirea unei porțiuni",
+        "IsCorrect": false
+      },
+      {
+        "Text": "înfășurarea capetelor ca sa nu se destrame",
+        "IsCorrect": true
+      },
+      {
+        "Text": "eliminarea unei porțiuni uzate",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Piesa fundamentala de rezistența a oricărei nave, situată în plan diametral, de la prova la pupa, se numește:",
+    "Answers": [
+      {
+        "Text": "chila",
+        "IsCorrect": true
+      },
+      {
+        "Text": "etravă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "etambou",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este elementul de baza la structura oricărui tip de parâma:",
+    "Answers": [
+      {
+        "Text": "lanțana",
+        "IsCorrect": false
+      },
+      {
+        "Text": "firul",
+        "IsCorrect": true
+      },
+      {
+        "Text": "garlinul",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Piesele metalice mai mici, care servesc la luarea voltelor cu parâme mai subțiri se numesc:",
+    "Answers": [
+      {
+        "Text": "tacheți",
+        "IsCorrect": true
+      },
+      {
+        "Text": "trancheti",
+        "IsCorrect": false
+      },
+      {
+        "Text": "turnicheti",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dispozitivele de construcție specială, fixate în bordaj, cu rol de ghidare a parâmei se numesc:",
+    "Answers": [
+      {
+        "Text": "rodanțe",
+        "IsCorrect": false
+      },
+      {
+        "Text": "urechi",
+        "IsCorrect": true
+      },
+      {
+        "Text": "tacheți",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Orificiul rotund prin care trece axul cârmei se numește:",
+    "Answers": [
+      {
+        "Text": "stelatura pupa",
+        "IsCorrect": false
+      },
+      {
+        "Text": "etravă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "etambreul axului cârmei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Viteza unei ambarcațiuni se măsoară cu:",
+    "Answers": [
+      {
+        "Text": "Sonda",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Barometrul",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Lochul",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Dama reprezintă:",
+    "Answers": [
+      {
+        "Text": "o scobitura în marginea superioara a bordajului, în care se introduce rama",
+        "IsCorrect": true
+      },
+      {
+        "Text": "partea cea mai lată a ambarcațiunii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "locul în care se întâlnesc filele de bordaj cu copastia",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În cazul unei ancore, diamantul este:",
+    "Answers": [
+      {
+        "Text": "locul de unde se leagă capătul lanțului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ramificația brațelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "locul de împreunare a brațelor cu fusul",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se măsoară calibrul lanțului de ancora?",
+    "Answers": [
+      {
+        "Text": "grosimea la mijlocul zalei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lățimea maxima a zalei la interior",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lungimea maxima a zalei la exterior",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dispozitivele de construcție specială, fixate în punte, cu rol de ghidare a parâmei se numesc:",
+    "Answers": [
+      {
+        "Text": "rodanțe",
+        "IsCorrect": false
+      },
+      {
+        "Text": "urechi",
+        "IsCorrect": true
+      },
+      {
+        "Text": "tacheți",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cablurile fixate de cârma, cu ajutorul cărora se guvernează se numesc:",
+    "Answers": [
+      {
+        "Text": "eche",
+        "IsCorrect": false
+      },
+      {
+        "Text": "troțe",
+        "IsCorrect": true
+      },
+      {
+        "Text": "pene",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Vârtejul este:",
+    "Answers": [
+      {
+        "Text": "piesa de legătură inte cheia de împreunare a ancorei și cea a lanțului de ancora",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o za de lat de ancora",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o cheie de împreunare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Orificiul rotund prin care trece axul elicei de propulsie se numește:",
+    "Answers": [
+      {
+        "Text": "etambou",
+        "IsCorrect": false
+      },
+      {
+        "Text": "selatura pupa",
+        "IsCorrect": false
+      },
+      {
+        "Text": "etambreul axului elicei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Un observator care sta pe puntea navei cu fața spre prova, are în stânga:",
+    "Answers": [
+      {
+        "Text": "bordul babord",
+        "IsCorrect": true
+      },
+      {
+        "Text": "bordul tribord",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cuplul maestru",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Elementele de osatura transversale, fixate pe chila la intervale egale, se numesc:",
+    "Answers": [
+      {
+        "Text": "filă lacrimară",
+        "IsCorrect": false
+      },
+      {
+        "Text": "coaste",
+        "IsCorrect": true
+      },
+      {
+        "Text": "traverse",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Locul de îmbinare a filelor se numește?",
+    "Answers": [
+      {
+        "Text": "cusătura",
+        "IsCorrect": true
+      },
+      {
+        "Text": "gurna",
+        "IsCorrect": false
+      },
+      {
+        "Text": "binta",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Din punct de vedere al materialului folosit la confecționarea paramelor, una din categoriile incluse în aceasta clasificare o reprezintă:",
+    "Answers": [
+      {
+        "Text": "parâmele vegetale",
+        "IsCorrect": true
+      },
+      {
+        "Text": "parâmele răsucite (garline)",
+        "IsCorrect": false
+      },
+      {
+        "Text": "parâmele simple (lanțane)",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La parâmele vegetale și sintetice circumferința reprezintă:",
+    "Answers": [
+      {
+        "Text": "greutatea",
+        "IsCorrect": false
+      },
+      {
+        "Text": "grosimea",
+        "IsCorrect": true
+      },
+      {
+        "Text": "rezistența",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Chila reprezintă:",
+    "Answers": [
+      {
+        "Text": "element de rezistența al navei dispus în planul transversal al navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "element de rezistența dispus în planul longitudinal al navei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "element de rezistență dispus în planul cuplului maestru",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Sarcina la care parâma se rupe reprezintă:",
+    "Answers": [
+      {
+        "Text": "grosimea parâmei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "greutatea parâmei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "rezistența parâmei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce este merlinul?",
+    "Answers": [
+      {
+        "Text": "o lanțană de 40-80mm grosime folosită la legarea navelor mici",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o parâmă cu grosimea de 100-620 mm folosită la legarea sau remorcarea navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o parâmă subțire confecționată din trei sfilate, folosită la înfășurare, legături și patronări",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Raiul unei macarale este:",
+    "Answers": [
+      {
+        "Text": "o rolă care se învârtește liber în jurul unui ax",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o piesa format din două placi laterale ovale și două tocuri",
+        "IsCorrect": false
+      },
+      {
+        "Text": "piesa de susținere a macaralei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Etrava reprezintă:",
+    "Answers": [
+      {
+        "Text": "prelungirea chilei în tribord și babord",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prelungirea chilei în prova",
+        "IsCorrect": true
+      },
+      {
+        "Text": "prelungirea chilei în pupa",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care din următoarele parâme au în interior o inima vegetală, pentru protecția acestora?",
+    "Answers": [
+      {
+        "Text": "parâmele sintetice",
+        "IsCorrect": false
+      },
+      {
+        "Text": "parâmele vegetale",
+        "IsCorrect": false
+      },
+      {
+        "Text": "parâmele metalice",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Capacitatea parâmei de a se îndoi, fără a-si modifica structura interioara, reprezintă:",
+    "Answers": [
+      {
+        "Text": "flexibilitatea parâmei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "greutatea parâmei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "rezistența parâmei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce este grandeea?",
+    "Answers": [
+      {
+        "Text": "o lanțană cu circumferința de 25-120mm cusuta pe marginea unei vele sau tenzi pentru a o întări.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o parâmă cu grosimea de 100-620 mm folosită la legarea sau remorcarea navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lanțană subțire de 7-8mm folosită la înfășurări și patronări de parâme groase",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Sbirul este:",
+    "Answers": [
+      {
+        "Text": "o rola care se învârtește liber în jurul unui ax",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o piesa formată din două placi laterale ovale și două tocuri",
+        "IsCorrect": false
+      },
+      {
+        "Text": "inel de parâmă confecționat prin matisire care servește la prinderea unui palanc pe o parâmă sau pe un scondru",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Etamboul reprezintă:",
+    "Answers": [
+      {
+        "Text": "prelungirea chilei în tribord și babord",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prelungirea chilei în prova",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prelungirea chilei în pupa",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Caracteristicile parâmelor sunt:",
+    "Answers": [
+      {
+        "Text": "flotabilitatea, greutatea, rezistența, elasticitatea",
+        "IsCorrect": false
+      },
+      {
+        "Text": "grosimea, greutatea, rezistența, flexibilitatea, elasticitatea",
+        "IsCorrect": true
+      },
+      {
+        "Text": "grosimea, flotabilitatea, greutatea, elasticitatea, asieta",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înțelege prin \"bătaia parâmei\"?",
+    "Answers": [
+      {
+        "Text": "separarea firelor după lungime și eliberarea produsului secundar numit stupa",
+        "IsCorrect": false
+      },
+      {
+        "Text": "îndepărtarea materialelor străine din materia prima",
+        "IsCorrect": true
+      },
+      {
+        "Text": "operațiunea prin care firele sunt răsucite",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce este saula?",
+    "Answers": [
+      {
+        "Text": "o lanțană de 40-80mm grosime folosită la legarea navelor mici",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o parâmă cu grosimea de 100-620 mm folosită la legarea sau remorcarea navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o parâmă cu grosimea de 15-40mm folosită la bandulă sau la pavilion",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Macaralele în marinărie sunt:",
+    "Answers": [
+      {
+        "Text": "dispozitive de genul scripeților, folosite pentru ridicarea unor greutăți sau pentru schimbarea direcției de tracțiune a unei parâme",
+        "IsCorrect": true
+      },
+      {
+        "Text": "instalații de forță prevăzute cu cabina și panou de comandă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "instalații compuse dintr-un ansamblu de grinzi metalice sudate sau nituite, aflate pe nave",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Coastele reprezintă elemente de construcție ale navei dispuse în planul:",
+    "Answers": [
+      {
+        "Text": "liniei de plutire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "longitudinal",
+        "IsCorrect": false
+      },
+      {
+        "Text": "transversal",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Pescajul navei reprezintă:",
+    "Answers": [
+      {
+        "Text": "distanta măsurată pe orizontală în planul cuplului maestru, la nivelul liniei de plutire de plina încărcare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "distanta măsurată pe orizontala în planul cuplului maestru, intre extremitățile celor două borduri",
+        "IsCorrect": false
+      },
+      {
+        "Text": "distanța măsurată pe verticală, de la linia de bază până la linia de plutire",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înțelege prin \"pieptănarea parâmei\"?",
+    "Answers": [
+      {
+        "Text": "separarea firelor după lungime și eliberarea produsului secundar, numit stupă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "îndepărtarea materialelor străine din materia primă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "operațiunea prin care firele sunt rasucite",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce este lusinul?",
+    "Answers": [
+      {
+        "Text": "o lanțană de 40-80mm grosime folosită la legarea navelor mici",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lanțană mai fină decât merlinul, folosită la patronări și înfășurări fine",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o parâmă cu grosimea de 15-40mm folosită la bandulă sau la pavilion",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Părțile componente ale unei macarale sunt:",
+    "Answers": [
+      {
+        "Text": "căpățâna, raiul, sbirul",
+        "IsCorrect": true
+      },
+      {
+        "Text": "căpățâna, raiul, troliul",
+        "IsCorrect": false
+      },
+      {
+        "Text": "căpățâna, raiul, spiraiul",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Varangele reprezintă elemente de construcție ale navei dispuse în planul:",
+    "Answers": [
+      {
+        "Text": "liniei de plutire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "longitudinal",
+        "IsCorrect": false
+      },
+      {
+        "Text": "transversal",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce este flotabilitatea?",
+    "Answers": [
+      {
+        "Text": "proprietatea navei de a reveni la poziția inițială, după ce a fost scoasă din starea de echilibru",
+        "IsCorrect": false
+      },
+      {
+        "Text": "proprietatea navei de a pluti, la pescajul mediu determinat, cu încărcătura sa",
+        "IsCorrect": true
+      },
+      {
+        "Text": "proprietatea navei de a-si schimba direcția mișcării",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Păstrarea parâmelor vegetale se face ferindu-le de:",
+    "Answers": [
+      {
+        "Text": "întuneric și lipsa de ventilație",
+        "IsCorrect": false
+      },
+      {
+        "Text": "umezeala și radiația solara",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu necesita masuri speciale pentru păstrare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înțelege prin \"toarcerea parâmei\"?",
+    "Answers": [
+      {
+        "Text": "separarea firelor după lungime și eliberarea produsului secundar, numit stupa",
+        "IsCorrect": false
+      },
+      {
+        "Text": "îndepărtarea materialelor străine din materia prima",
+        "IsCorrect": false
+      },
+      {
+        "Text": "operațiunea prin care firele sunt răsucite spre dreapta",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce este garlinul?",
+    "Answers": [
+      {
+        "Text": "o lanțană de 40-80mm grosime folosită la legarea navelor mici",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o parâmă cu grosimea de 100-620 mm folosită la legarea sau remorcarea navei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o lanțană subțire de 7-8mm folosită la înfășurări și patronări de parâme groase",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Palancurile sunt:",
+    "Answers": [
+      {
+        "Text": "dispozitive compuse din una sau mai multe macarale cu cate unul sau mai multe raiuri, prin care se trece o parâmă denumită curent",
+        "IsCorrect": true
+      },
+      {
+        "Text": "instalații compuse din grinzi de otel sudate sau îmbinate prin nituire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ansamble alcătuite din mai multe bigi sau cranice, folosite la ridicarea de greutăți și deschiderea capacelor de magazii",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Elementul de baza din structura oricărei parâme este:",
+    "Answers": [
+      {
+        "Text": "șuvița",
+        "IsCorrect": false
+      },
+      {
+        "Text": "firul",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lanțana",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Din ce sunt confecționate parâmele metalice?",
+    "Answers": [
+      {
+        "Text": "din fire de cânepă, in, bumbac, iuta",
+        "IsCorrect": false
+      },
+      {
+        "Text": "din fire de sarma de otel zincat cu grosimi de 0,2-0,6mm",
+        "IsCorrect": true
+      },
+      {
+        "Text": "din fire de capron, relon, nailon, polipropilena",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Mandarul simplu este:",
+    "Answers": [
+      {
+        "Text": "dispozitiv de ridicat, alcătuit din două macarale duble",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dispozitiv de ridicat alcătuit dintr-o macara fixa, prin care trece o parâmă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "dispozitiv de ridicat alcătuit dintr-o macara mobila, prin care trece un curent",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Parâmele simple se numesc si:",
+    "Answers": [
+      {
+        "Text": "garline",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lanțane",
+        "IsCorrect": true
+      },
+      {
+        "Text": "cordoane",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Din ce sunt confecționate parâmele vegetale?",
+    "Answers": [
+      {
+        "Text": "din fire de cânepă, in, bumbac, iuta",
+        "IsCorrect": true
+      },
+      {
+        "Text": "din fire de sarma de otel zincat cu grosimi de 0,2-0,6mm",
+        "IsCorrect": false
+      },
+      {
+        "Text": "din fire de capron,relon,nailon, polipropilena",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Furcheții sunt:",
+    "Answers": [
+      {
+        "Text": "piese metalice în forma de furca pe care se sprijină ramele ambarcațiunii",
+        "IsCorrect": true
+      },
+      {
+        "Text": "montant de copastie",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu sunt necesari pentru ambarcațiuni",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Din ce sunt confecționate parâmele sintetice?",
+    "Answers": [
+      {
+        "Text": "din fire de cânepă, in, bumbac, iuta",
+        "IsCorrect": false
+      },
+      {
+        "Text": "din fire de sarma de otel zincat cu grosimi de 0,2-0,6mm",
+        "IsCorrect": false
+      },
+      {
+        "Text": "din fire de capron, relon, nailon, polipropilena",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Mai multe fire răsucite intre ele formează:",
+    "Answers": [
+      {
+        "Text": "o șuviță",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lanțană",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o sfilată",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Vesta de salvare este:",
+    "Answers": [
+      {
+        "Text": "în inventarul ambarcațiunii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "mijloc individual de salvare care face parte din inventarul ambarcațiunii",
+        "IsCorrect": true
+      },
+      {
+        "Text": "protejată termic",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce sunt paramele de manila?",
+    "Answers": [
+      {
+        "Text": "parame vegetale confectionate din fire lungi de canepa",
+        "IsCorrect": false
+      },
+      {
+        "Text": "parame vegetale confectionate din fibre de bananier",
+        "IsCorrect": true
+      },
+      {
+        "Text": "parame vegetale confectionate din frunze de cactus",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce sunt parâmele de sizal?",
+    "Answers": [
+      {
+        "Text": "parâme vegetale confecționate din fire lungi de cânepă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "parâme vegetale confecționate din fibre de bananier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "parâme vegetale confecționate din frunze de cactus",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Unde se păstrează parâmele pentru uzul curent?",
+    "Answers": [
+      {
+        "Text": "în magazii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pe punte",
+        "IsCorrect": true
+      },
+      {
+        "Text": "într-un cofferdam",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce sunt folosite paramele de cocos?",
+    "Answers": [
+      {
+        "Text": "la confectionarea manevrelor curente",
+        "IsCorrect": true
+      },
+      {
+        "Text": "la confecționarea baloanelor și paietelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la confecționarea saulelor la ambarcațiuni sport și de agrement",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce trebuie verificat la primirea parâmelor vegetale la bord?",
+    "Answers": [
+      {
+        "Text": "culoarea și mirosul",
+        "IsCorrect": true
+      },
+      {
+        "Text": "calitatea zincării",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sa nu fie îndoite",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce sunt folosite parâmele de cânepa?",
+    "Answers": [
+      {
+        "Text": "la confecționarea manevrelor curente, la bărci și la arborada",
+        "IsCorrect": true
+      },
+      {
+        "Text": "la confecționarea baloanelor și paietelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la confecționarea saulelor, la ambarcațiuni sportive și de agrement",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Barbetele sunt:",
+    "Answers": [
+      {
+        "Text": "parâme folosite pentru prinderea butoaielor și ridicarea acestora",
+        "IsCorrect": false
+      },
+      {
+        "Text": "capete de parâmă folosite la botare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "capete de parâmă fixate la prova și la pupa bărcii.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Boturile sunt:",
+    "Answers": [
+      {
+        "Text": "capete de parâmă vegetală sau de lanț fixate cu unul din capete solid în punte pentru fixarea provizorie a unei parâme.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "siguranțe ale axului unei macarale.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "știfturi de siguranță ale unei chei de împreunare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care dintre afirmație de mai jos este adevărata?",
+    "Answers": [
+      {
+        "Text": "tacheții sunt piese metalice formate din două coloane cilindrice care servesc la luarea voltelor la parâmele date ca legături la mal",
+        "IsCorrect": false
+      },
+      {
+        "Text": "tacheții sunt piese metalice în forma de T, montate pe punte, pe copastie și servesc pentru luarea voltelor la parâme mai subțiri",
+        "IsCorrect": true
+      },
+      {
+        "Text": "tacheții sunt piese metalice de ghidarea parâmelor, cu minimum de frecare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care dintre afirmațiile de mai jos este adevărata?",
+    "Answers": [
+      {
+        "Text": "turnichetii sunt piese metalice în forma de T, ce se folosesc la luarea voltelor la diverse parâme",
+        "IsCorrect": false
+      },
+      {
+        "Text": "turnichetii sunt piese metalice de ghidarea parâmelor, cu minimum de frecare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "turnichetii sunt piese metalice pentru agățat lanțuri, parâme vegetale și sârme.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care dintre afirmațiile de mai jos este falsă?",
+    "Answers": [
+      {
+        "Text": "viteza navei se măsoară în noduri.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "viteza navei se măsoară în Mile marine pe ora (Mm/h)",
+        "IsCorrect": false
+      },
+      {
+        "Text": "viteza navei se măsoară cu anemometrul.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce tip de ancora este ancora Amiralitate?",
+    "Answers": [
+      {
+        "Text": "cu fus articulat.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu gheare de pisica.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu fus nearticulat",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce tip de ancora este ancora Hall?",
+    "Answers": [
+      {
+        "Text": "cu fus articulat.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "cu gheare de pisica.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu fus nearticulat",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se măsoară greutatea unei parâme?",
+    "Answers": [
+      {
+        "Text": "prin măsurarea circumferinței ei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin măsurarea sarcinii la care se rupe parâma",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin măsurarea greutății în kilograme a unui metru liniar din parâma respectiva",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se măsoară grosimea unei parâme?",
+    "Answers": [
+      {
+        "Text": "prin măsurarea circumferinței ei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "prin măsurarea sarcinii la care se rupe parâma",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin măsurarea greutății în kilograme a unui metru liniar din parâma respectiva",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se măsoară rezistența unei parâme?",
+    "Answers": [
+      {
+        "Text": "prin măsurarea circumferinței ei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin măsurarea sarcinii la care se rupe parâma",
+        "IsCorrect": true
+      },
+      {
+        "Text": "prin măsurarea greutății în kilograme a unui metru liniar din parâma respectiva",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Echea reprezintă:",
+    "Answers": [
+      {
+        "Text": "partea cârmei scufundata în apa, care realizează efectul de guvernare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o piesa sub forma unei bare sau a unui sector ce se fixează în capul penei cârmei.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "partea de cârmă ce se afla deasupra liniei de plutire.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Elementele componente ale unei ancore sunt:",
+    "Answers": [
+      {
+        "Text": "nara de ancora, vinciul de ancora și lanțul de ancorare.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "fus, diamant, brațe și gheare.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "stopa de lanț, lanțul de ancorare și tubul de ghidare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Elementele structurale ale unei parâme sintetice sau vegetale sunt:",
+    "Answers": [
+      {
+        "Text": "firul, sfilată, șuvița, lanțana, cordonul, garlinul.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "firul, șuvița, lanțana, cordonul, garlinul, gașa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "firul, sfilată, șuvița, lanțana, cordonul, carlinga.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria nodurilor speciale intră:",
+    "Answers": [
+      {
+        "Text": "nodul gura de știucă, nodul de remorca",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nodul de bandula, nodul picior de câine",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nodul de scaun, nodul de ancora.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru navigație din inventarul bărcii, intră:",
+    "Answers": [
+      {
+        "Text": "ghiordel",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cuțit de gabier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "compas de barca",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru navigație și semnalizare din inventarul bărcii, intră:",
+    "Answers": [
+      {
+        "Text": "pistol de semnalizare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "butoiaș cu apă potabilă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ispol",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru navigație și semnalizare din inventarul bărcii, intră:",
+    "Answers": [
+      {
+        "Text": "colacii de salvare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pavilioane de semnalizare cu brațele.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "veste de salvare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru navigație și semnalizare din inventarul bărcii, intră:",
+    "Answers": [
+      {
+        "Text": "bastonul de pavilion cu pavilionul",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ciocanul",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ghiordelul",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru salvare echipaj, în inventarul bărcii intră si:",
+    "Answers": [
+      {
+        "Text": "pistolul de semnalizare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "butoias cu apă potabilă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ispolul",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru salvare, în inventarul bărcii intră si:",
+    "Answers": [
+      {
+        "Text": "trusa cu scule de marangozerie",
+        "IsCorrect": false
+      },
+      {
+        "Text": "veste de salvare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "compasul de barca",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru salvare, în inventarul bărcii intră si:",
+    "Answers": [
+      {
+        "Text": "colaci de salvare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ghiordelul",
+        "IsCorrect": false
+      },
+      {
+        "Text": "compasul de barca",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru salvarea personalului, în inventarul bărcii intră si:",
+    "Answers": [
+      {
+        "Text": "trusa cu medicamente",
+        "IsCorrect": true
+      },
+      {
+        "Text": "trusa cu scule de marangozerie",
+        "IsCorrect": false
+      },
+      {
+        "Text": "felinar de vânt",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru vitalitatea bărcii, intră si:",
+    "Answers": [
+      {
+        "Text": "butoiaș cu apa potabila",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ghiordelul",
+        "IsCorrect": true
+      },
+      {
+        "Text": "veste de salvare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru vitalitatea bărcii, intră si:",
+    "Answers": [
+      {
+        "Text": "pavilioane de semnalizare cu brațele.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ispolul",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ciocanul",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru vitalitatea bărcii, intră si:",
+    "Answers": [
+      {
+        "Text": "dopuri de lemn",
+        "IsCorrect": true
+      },
+      {
+        "Text": "bastonul de pavilion cu pavilionul",
+        "IsCorrect": false
+      },
+      {
+        "Text": "centuri de salvare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru vitalitatea bărcii, intră si:",
+    "Answers": [
+      {
+        "Text": "trusa cu medicamente",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pene, cuie, câlți",
+        "IsCorrect": true
+      },
+      {
+        "Text": "compasul de barca",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria obiectelor de armament destinate pentru vitalitatea bărcii, intră si:",
+    "Answers": [
+      {
+        "Text": "trusa cu medicamente",
+        "IsCorrect": false
+      },
+      {
+        "Text": "trusa cu scule de marangozerie",
+        "IsCorrect": true
+      },
+      {
+        "Text": "felinar de vânt",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria propulsoarelor intră:",
+    "Answers": [
+      {
+        "Text": "zbaturile, ramele, elicele.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "linia de arbori, bulbul, cârma.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cârma, timona, mașina cârmei.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Instalația de ancorare a navei reprezintă:",
+    "Answers": [
+      {
+        "Text": "un complex de mecanisme care, acționate separat sau în comun, produce momentul girației (schimbarea direcției de înaintare a navei)",
+        "IsCorrect": false
+      },
+      {
+        "Text": "instalația cu care se realizează propulsia navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "instalația cu care se realizează fixarea într-o poziție bine determinată a navei.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Instalația de ancorare:",
+    "Answers": [
+      {
+        "Text": "reprezintă un ansamblu de piese și mecanisme destinate pentru a realiza deplasarea navei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "reprezintă un ansamblu de piese și mecanisme destinate pentru menținerea navei într-o zona în afara caii navigabile, sau într-o poziție stabila, de către comandantul navei.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "reprezintă un ansamblu de piese și mecanisme cu ajutorul cărora se guverneaza nava în locul voit",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Instalația de guvernare a navei reprezintă:",
+    "Answers": [
+      {
+        "Text": "un complex de mecanisme care, acționate separat sau în comun, produce momentul girației (schimbarea direcției de înaintare a navei)",
+        "IsCorrect": true
+      },
+      {
+        "Text": "instalația cu care se realizează propulsia navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "instalatia cu care se realizează fixarea într-o pozitie bine determinată a navei.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Instalația de guvernare:",
+    "Answers": [
+      {
+        "Text": "reprezintă un ansamblu de piese și mecanisme destinate pentru menținerea navei într-o zona în afara caii navigabile, sau într-o poziție stabila, de către comandantul navei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "reprezintă un ansamblu de piese și mecanisme care trebuie sa asigure respectarea drumului impus navei sau schimbarea direcției de înaintare a navei.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "reprezintă un ansamblu de piese și mecanisme destinate pentru a realiza deplasarea navei.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Instalația de propulsie a navei:",
+    "Answers": [
+      {
+        "Text": "reprezintă un ansamblu de piese și mecanisme destinate pentru a realiza deplasarea navei.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "reprezintă un ansamblu de piese și mecanisme destinate pentru menținerea navei într-o zona în afara caii navigabile, sau într-o poziție stabila, de către comandantul navei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "reprezintă un ansamblu de piese și mecanisme cu ajutorul cărora se asigură nava în locul voit și într-o pozitie aleasă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce folosește un palanc dublu?",
+    "Answers": [
+      {
+        "Text": "pentru multiplicarea forței de acționare a manevrelor curente de la bord și ridicarea de diferite greutăți.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pentru dublarea forței de tracțiune a unei fungi",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pentru ridicarea greutăților și la instalațiile de gruie.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Mațagonirea reprezintă:",
+    "Answers": [
+      {
+        "Text": "operațiunea de furbisare a alămurilor de pe navă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "operațiunea de îndepărtare a ruginii și a stratului de vopsea sub care se afla rugina.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "operațiunea de aplicare a grundului pe suprafețe curățate de rugină.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul de ancoră este un nod:",
+    "Answers": [
+      {
+        "Text": "de împreunare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de legătură",
+        "IsCorrect": true
+      },
+      {
+        "Text": "de cârlig",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul de capelatură este un nod:",
+    "Answers": [
+      {
+        "Text": "de legătură",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de cârlig",
+        "IsCorrect": false
+      },
+      {
+        "Text": "special",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul de scotă este un nod:",
+    "Answers": [
+      {
+        "Text": "de legătură",
+        "IsCorrect": true
+      },
+      {
+        "Text": "de cârlig",
+        "IsCorrect": false
+      },
+      {
+        "Text": "special",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul de pescar este un nod:",
+    "Answers": [
+      {
+        "Text": "de împreunare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "de legătură",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de cârlig",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul de scaun simplu este un nod:",
+    "Answers": [
+      {
+        "Text": "de împreunare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de legătura",
+        "IsCorrect": true
+      },
+      {
+        "Text": "de cârlig",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul de schelă este un nod:",
+    "Answers": [
+      {
+        "Text": "de legătură",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de cârlig",
+        "IsCorrect": false
+      },
+      {
+        "Text": "special",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul de văcar este un nod:",
+    "Answers": [
+      {
+        "Text": "de împreunare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "de legătură",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de cârlig",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul gura de știucă este un nod:",
+    "Answers": [
+      {
+        "Text": "de împreunare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de legătura",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de cârlig",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul lat este un nod:",
+    "Answers": [
+      {
+        "Text": "de împreunare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "de legătură",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de cârlig",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodurile de cârlig sunt:",
+    "Answers": [
+      {
+        "Text": "nodurile folosite la legarea unui capăt de parâmă de cârligul unei macarale",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nodurile folosite la împreunarea a două capete de parâmă de grosimi aproximativ egale.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nodurile folosite la fixarea unui capăt de parâmă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodurile de împreunare sunt:",
+    "Answers": [
+      {
+        "Text": "nodurile folosite la legarea navelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nodurile folosite la împreunarea a două capete de parâmă de grosimi aproximativ egale",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nodurile folosite la fixarea unui capăt de parâmă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodurile de legătura sunt:",
+    "Answers": [
+      {
+        "Text": "nodurile folosite la legarea unui capăt de parâmă de cârligul unei macarale",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nodurile folosite la împreunarea a două capete de parâmă de grosimi aproximativ egale.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nodurile folosite la fixarea unui capăt de parâmă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Obiectele din alama și bronz se piturează?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": true
+      },
+      {
+        "Text": "da",
+        "IsCorrect": false
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Parâmele de bumbac sunt folosite la confecționarea baloanelor și paietelor?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": true
+      },
+      {
+        "Text": "da",
+        "IsCorrect": false
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Parâmele sintetice sunt folosite la confecționarea saulelor la ambarcațiuni sport și de agrement?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Parâmele de cânepă sunt confecționate din fire de cânepă?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Parâmele vegetale și sintetice sunt folosite la confecționarea baloanelor și paietelor?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": true
+      },
+      {
+        "Text": "da",
+        "IsCorrect": false
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Parâmele de vegetale și sintetice sunt folosite la confecționarea manevrelor curente?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Parâmele de cânepă sunt folosite la confecționarea saulelor la ambarcațiuni sport și de agrement?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": true
+      },
+      {
+        "Text": "da",
+        "IsCorrect": false
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Parâmele vegetale și sintetice uzate sunt folosite la confecționarea baloanelor și paietelor?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Parâmele de sizal sunt confecționate din fire de cânepă?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": true
+      },
+      {
+        "Text": "da",
+        "IsCorrect": false
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Vinciul este:",
+    "Answers": [
+      {
+        "Text": "instalație fixa",
+        "IsCorrect": false
+      },
+      {
+        "Text": "mecanism de ridicat sau tras, manual sau acționat mecanic, cu ax orizontal utilizat la bord pentru virarea ancorei, manevrelor unei bigi, a curenților palancurilor gruelor de barcă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "instalație mecanica de forță",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nodul de scaun simplu (de gașă) se utilizează la:",
+    "Answers": [
+      {
+        "Text": "împreunarea a două parâme",
+        "IsCorrect": false
+      },
+      {
+        "Text": "legarea ambarcațiunii de instalațiile de pe cheu, babale, binte,tacheti",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu are utilitate",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cabestanul este:",
+    "Answers": [
+      {
+        "Text": "instalație mecanica",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dispozitiv de manevra",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Mecanism de punte, pentru virarea ancorei sau manevrarea parâmelor, acționat manual sau electro-mecanic, cu ax vertical",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Gruiul este:",
+    "Answers": [
+      {
+        "Text": "instalație mecanica",
+        "IsCorrect": false
+      },
+      {
+        "Text": "suport ambarcatiune",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dispozitiv de ridicare a greutatilor și a bărcilor având o formă curbată, o rază relativ mică de acțiune comparativ cu bigile și granicele și o capacitate de ridicare scăzută",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Principiul lui Arhimede se aplica:",
+    "Answers": [
+      {
+        "Text": "oricărui corp care zboară",
+        "IsCorrect": false
+      },
+      {
+        "Text": "oricărui corp aflat la sol.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "oricarui corp scufundat în apă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Rodanțele sunt:",
+    "Answers": [
+      {
+        "Text": "apărătoare ale macaralelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "apărătoare ale gașelor",
+        "IsCorrect": true
+      },
+      {
+        "Text": "dispozitive de vitalitate",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Sabordurile sunt:",
+    "Answers": [
+      {
+        "Text": "deschideri în bordaj de forma dreptunghiulara, cu destinații diferite.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "deschideri în punte de dimensiuni mici, destinate accesului oamenilor în compartimentele aflate sub punte.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "deschideri în punte destinate pentru iluminarea și aerisirea compartimentului masini și căldări.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Sarcina la care parâma se rupe reprezintă:",
+    "Answers": [
+      {
+        "Text": "grosimea parâmei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "greutatea parâmei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "rezistența pâramei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Saula \"țin-te bine\" se întâlnește la:",
+    "Answers": [
+      {
+        "Text": "bărcile de serviciu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "bărcile de salvare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "bărcile de serviciu, bărcile de agrement",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Se poate da a două mana de vopsea, dacă nu s-a uscat primul strat de vopsea?",
+    "Answers": [
+      {
+        "Text": "da",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu contează",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Sunt elemente componente ale instalației de ancorare:",
+    "Answers": [
+      {
+        "Text": "stopa de lanț, vinciul de ancoră și nara de punte.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "babale, parâme, turnicheti",
+        "IsCorrect": false
+      },
+      {
+        "Text": "vinciuri de balansină, balansina și cârligul de sarcină",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Sunt elemente componente ale instalației de ancorare:",
+    "Answers": [
+      {
+        "Text": "fungile, brațele și școtele.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ancora, nara de ancora și ghidajele de lanț.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "straiurile, sarturile și pataraținele",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Tambuchiurile sunt:",
+    "Answers": [
+      {
+        "Text": "deschideri în punte necesare încărcării descărcării mărfii în/din magazii.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "deschideri în punte de dimensiuni mici, destinate accesului oamenilor în compartimentele aflate sub punte.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "deschideri în punte, destinate pentru iluminarea și aerisirea compartimentului mașini și căldări.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Timona reprezintă un element component al instalației de:",
+    "Answers": [
+      {
+        "Text": "propulsie",
+        "IsCorrect": false
+      },
+      {
+        "Text": "guvernare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ancorare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Umezeala alterează parâmele vegetale?",
+    "Answers": [
+      {
+        "Text": "da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "uneori",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Unde se afla puntirile bărcii?",
+    "Answers": [
+      {
+        "Text": "în prova și în pupa",
+        "IsCorrect": true
+      },
+      {
+        "Text": "în mijlocul bărcii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pe fundul bărcii.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Voltele în cadrul lucrărilor de matelotaj sunt:",
+    "Answers": [
+      {
+        "Text": "noduri marinărești",
+        "IsCorrect": false
+      },
+      {
+        "Text": "legături prin care se fixează parâmele la dispozitive speciale de legare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "întoarceri ale navelor sub acțiunea vântului.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Voltele se pot face la:",
+    "Answers": [
+      {
+        "Text": "baba, tacheti, cavile",
+        "IsCorrect": true
+      },
+      {
+        "Text": "baba, turnicheți, somare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "baba, galion, goling",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

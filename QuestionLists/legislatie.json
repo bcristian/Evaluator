@@ -1,0 +1,427 @@
+[
+  {
+    "Statement": "Care din următoarele fapte constituie infracțiune?",
+    "Answers": [
+      {
+        "Text": "îmbarcarea de pasageri peste limita admisă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "schimbarea poziției, scoaterea din funcțiune, avarierea gravă sau distrugerea unui semnal de navigație",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nerespectarea dispozițiilor personalului de la ecluze",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care dintre următoarele fapte constituie infracțiune?",
+    "Answers": [
+      {
+        "Text": "necomunicarea unor informații",
+        "IsCorrect": false
+      },
+      {
+        "Text": "refuzul de a pune la dispoziția ANR documente și date necesare investigării",
+        "IsCorrect": false
+      },
+      {
+        "Text": "împiedicarea îndeplinirii atributiilor de serviciu ale personalului navigant",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care este cauza agravantă a infracțiunii de preluare fără drept a comenzii sau controlului unei nave?",
+    "Answers": [
+      {
+        "Text": "dacă fost făcută în scopul devierii navei de la itinerarul său",
+        "IsCorrect": true
+      },
+      {
+        "Text": "dacă a fost făcută de către un membru al echipajului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dacă a fost făcută de două sau mai multe persoane",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Luarea în stăpânire a unei platforme fixe sau exercitarea controlului asupra acesteia constituie infracțiune?",
+    "Answers": [
+      {
+        "Text": "da, dacă s a produs prin violență ori amenințare cu violența",
+        "IsCorrect": true
+      },
+      {
+        "Text": "da, dacă s a produs în scopul devierii de la itinerarul său",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da, dacă s-a perturbat funcționarea acesteia sau s-a pus în pericol siguranța navigației",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce reprezintă blocarea șenalului navigabil a unei dane sau a bazinului portuar și neexecutarea ordinului căpitanului portului privind măsurile de deblocare?",
+    "Answers": [
+      {
+        "Text": "contravenție, dacă este fără urmări",
+        "IsCorrect": false
+      },
+      {
+        "Text": "infracțiune",
+        "IsCorrect": true
+      },
+      {
+        "Text": "infracțiune, dar numai dacă a avut ca urmare întreruperea navigației ori a activității portuare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ultrajul săvârșit împotriva personalului operativ al căpităniei portului, constituie infracțiune?",
+    "Answers": [
+      {
+        "Text": "da, dacă persoana se află în exercițiul funcțiunii",
+        "IsCorrect": true
+      },
+      {
+        "Text": "da, chiar dacă este ca urmare a unor fapte îndeplinite în afara exercițiului funcțiunii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da, dacă are ca urmare punerea în pericol a siguranței navigației",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În ce termen trebuie transcris contractul de construcție al unei nave în registrul de evidență al navelor în construcție?",
+    "Answers": [
+      {
+        "Text": "15 zile de la începerea construcției",
+        "IsCorrect": true
+      },
+      {
+        "Text": "15 zile înainte de începerea construcției",
+        "IsCorrect": false
+      },
+      {
+        "Text": "15 zile înainte de finalizarea construcției",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este termenul în care proprietarul unei nave are obligația de a înmatricula nava?",
+    "Answers": [
+      {
+        "Text": "15 zile",
+        "IsCorrect": true
+      },
+      {
+        "Text": "30 zile",
+        "IsCorrect": false
+      },
+      {
+        "Text": "60 zile",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este termenul limită pentru depunerea la căpitănia portului a actului de naționalitate de către proprietar în cazul suspendării dreptului de arborare a pavilionului român?",
+    "Answers": [
+      {
+        "Text": "15 zile de când decizia a rămas definitivă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "30 de zile de la comunicarea deciziei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "15 zile de la comunicarea deciziei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Exploatarea în scopuri comerciale a ambarcațiunii de agrement, cu excepția celor autorizate în acest sens, constituie:",
+    "Answers": [
+      {
+        "Text": "infracțiune, dacă periclitează siguranța navigației",
+        "IsCorrect": false
+      },
+      {
+        "Text": "contravenție la regimul siguranței navigației",
+        "IsCorrect": true
+      },
+      {
+        "Text": "infracțiune, dacă se depășește numărul maxim de pasageri",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Folosirea de către proprietar a unui nume, număr de identificare sau port de înmatriculare ce nu a fost aprobat de Autoritatea competentă constituie:",
+    "Answers": [
+      {
+        "Text": "contravenție",
+        "IsCorrect": true
+      },
+      {
+        "Text": "infracțiune la regimul înmatriculări navelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "contravenție, dacă nava a fost depistată pe șenalul navigabil",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este sancțiunea pentru nerespectarea \"Avizelor către navigatori\"?",
+    "Answers": [
+      {
+        "Text": "amendă de la 20.000 la 50.000 lei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "amendă de la 5.000 la 10.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 10.000 la 20.000 lei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este sancțiunea pentru navigația în zone nepermise a unei nave?",
+    "Answers": [
+      {
+        "Text": "amendă de la 20.000 la 50.000 lei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "amendă de la 5.000 la 20.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 10.000 la 20.000 lei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este sancțiunea pentru așezarea de plase ori unelte fixe de pescuit în apele naționale navigabile precum și în rade, porturi, canale sau senale navigabile?",
+    "Answers": [
+      {
+        "Text": "amendă de la 10.000 la 30.000 lei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "amendă de la 5.000 la 10.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 5.000 la 20.000 lei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este sancțiunea pentru folosirea mijloacelor de semnalizare de la bord în mod nejustificat sau neadecvat regulamentelor de navigație?",
+    "Answers": [
+      {
+        "Text": "amendă de la 10.000 la 20.000 lei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "amendă de la 5.000 la 20.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 1.000 la 5.000 lei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este sancțiunea pentru poluarea apelor naționale navigabile cu hidrocarburi?",
+    "Answers": [
+      {
+        "Text": "amendă de la 5.000 la 20.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 1.000 la 8.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 20.000 la 40.000 lei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care este sancțiunea pentru refuzul prezentării documentului de atestare reprezentanților ANR?",
+    "Answers": [
+      {
+        "Text": "amendă de la 2.000 la 5.000 lei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "amendă de la 1.000 la 5.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 500 la 8.000 lei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este sancțiunea pentru neanunțarea de către conducătorul unei nave cu privire la evenimentele de navigație ale propriei nave cum ar fi: abordaje, coliziuni, incendii, poluare, scufundare?",
+    "Answers": [
+      {
+        "Text": "amendă de la 40.000 la 50.000 lei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "amendă de la 5.000 la 10.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 5.000 la 20.000 lei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este sancțiunea pentru nearborarea la la bordul navei a pavilionului național în apele naționale navigabile ale României?",
+    "Answers": [
+      {
+        "Text": "amendă de la 2.000 la 5.000 lei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "amendă de la 1.000 la 5.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 5.000 la 20.000 lei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se sancționează refuzul de a se supune cercetărilor întreprinse de ANR sau de a pune la dispoziția ANR documentele și datele necesare investigării:",
+    "Answers": [
+      {
+        "Text": "amendă de la 1.000 la 5.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 30.000 la 50.000 lei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "amendă de la 10.000 la 20.000 lei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se sancționează refuzul de a se supune controlului ANR?",
+    "Answers": [
+      {
+        "Text": "amendă de la 1.000 la 5.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 5.000 la 20.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 20.000 la 30.000 lei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Nepredarea la ANR în termen de 5 zile de la comunicarea deciziei de suspendare sau anulare a documentului de atestare se sancționează:",
+    "Answers": [
+      {
+        "Text": "amendă de la 100 la 500 lei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "amendă de la 100 la 1.000 lei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "amendă de la 1.000 la 5.000 lei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Constatarea contravențiilor și aplicarea sancțiunilor prevăzute de HG 1704/2024 se face de către:",
+    "Answers": [
+      {
+        "Text": "personalul împuternicit al ANR",
+        "IsCorrect": true
+      },
+      {
+        "Text": "personal ANR în asistență reprezentant poliție transporturi navale",
+        "IsCorrect": false
+      },
+      {
+        "Text": "personalul ANR în asistență reprezentant Administrația Portuară",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Se poate constata contravenția fără oprirea navei?",
+    "Answers": [
+      {
+        "Text": "da",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da, dacă săvârșirea contravenției este probată cu un mijloc tehnic",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Se poate constata contravenția în lipsa contravenientului?",
+    "Answers": [
+      {
+        "Text": "nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da, dacă săvârșirea contravenției este probată cu un mijloc tehnic",
+        "IsCorrect": true
+      },
+      {
+        "Text": "da",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

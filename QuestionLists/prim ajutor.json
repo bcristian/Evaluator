@@ -1,0 +1,852 @@
+[
+  {
+    "Statement": "Care este durata maximă a masajului cardio-respitator?",
+    "Answers": [
+      {
+        "Text": "30 - 40 min",
+        "IsCorrect": false
+      },
+      {
+        "Text": "10 - 15 min",
+        "IsCorrect": true
+      },
+      {
+        "Text": "60 min",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este prima acțiune întreprinsă la acordarea primului ajutor victimelor unei coliziuni?",
+    "Answers": [
+      {
+        "Text": "spalarea plăgilor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dezinfectarea și pansarea rănilor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "degajarea căilor respiratorii și asigurarea funcției respiratorii",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care este prima măsură pe care o luați în cazul accidentării unei persoane pe apă?",
+    "Answers": [
+      {
+        "Text": "transportul imediat până la prima localitate și anunțarea la 112",
+        "IsCorrect": false
+      },
+      {
+        "Text": "transportul la cel mai apropiat spital",
+        "IsCorrect": false
+      },
+      {
+        "Text": "acordarea primului ajutor până la sosirea cadrelor de pe ambulanță",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care este rolul bandajului?",
+    "Answers": [
+      {
+        "Text": "să prevină murdărirea hainelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să împiedice hemoragia",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să împiedice intrarea corpilor străini în rană",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care poate fi cauza obturării căilor respiratorii după o coliziune?",
+    "Answers": [
+      {
+        "Text": "inflamarea mucoasei nazale",
+        "IsCorrect": false
+      },
+      {
+        "Text": "poziția necorespunzătoare în care a fost așezată victima",
+        "IsCorrect": false
+      },
+      {
+        "Text": "intrarea unor corpi străini în nasul sau gura victimei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care sunt simptomele unei fracturi a membrelor?",
+    "Answers": [
+      {
+        "Text": "temperatura ridicată a membrului fraturat",
+        "IsCorrect": false
+      },
+      {
+        "Text": "decolorarea zonei fraturate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "poziția nefirească a membrului respectiv mișcarea nenaturală",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care tip de hemoragie este cea mai periculoasă?",
+    "Answers": [
+      {
+        "Text": "hemoragia arterială",
+        "IsCorrect": false
+      },
+      {
+        "Text": "hemoragia venoasă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "hemoragia care determină o pierdere rapidă a sângelui",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce criterii trebuie să îndeplinească o atelă?",
+    "Answers": [
+      {
+        "Text": "să fie suficient de lungă pentru a imobiliza articulațiile superioară și inferioară a membrului fracturat și să fie rigidă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "să fie rigidă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să fie sterilă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce manevre se fac pentru a acorda primul ajutor în caz de fracturi de membre?",
+    "Answers": [
+      {
+        "Text": "se imobilizează membrul în atele care să fie destul de lungi pentru a cuprinde articulația de deasupra și cea de dedesubtul fracturii",
+        "IsCorrect": true
+      },
+      {
+        "Text": "se unesc capetele oaselor care au ieșit prin piele, apoi se bandajează locul",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se aplică un garou deasupra fracturii",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce măsuri de iau în cazul victimelor cu fracturi de claviculă (umărul victimei este deplasat usor înainte și în jos?",
+    "Answers": [
+      {
+        "Text": "aduceți umărul în poziție normală",
+        "IsCorrect": false
+      },
+      {
+        "Text": "culcați victima pe spate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "suspendați brațul într-o eșarfă sau chingă lată de gât",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce măsuri de prim ajutor se iau în cazul victimelor care nu mai au puls?",
+    "Answers": [
+      {
+        "Text": "se efectuează doar masaj cardiac",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se efectuează doar respirație artificială",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se efectuează masaj cardio respirator",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce măsuri de prim ajutor se iau în cazul victimelor care prezintă o entorsă a gleznei?",
+    "Answers": [
+      {
+        "Text": "se aplică un bandaj elastic strâns, eventual se aplică și gheață",
+        "IsCorrect": true
+      },
+      {
+        "Text": "se imobilizează glezna cu atele",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se transportă urgent victima la mal",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce măsuri de prim ajutor se iau în cazul victimelor care prezintă plăgi tăiate?",
+    "Answers": [
+      {
+        "Text": "se transportă de urgență victima la spital",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se coase plaga",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se oprește hemoragia și se transportă victima la spital",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce măsuri de prim ajutor se iau în cazul victimelor care și au pierdut cunoștința?",
+    "Answers": [
+      {
+        "Text": "se verifică existența pulsului și a respirației",
+        "IsCorrect": true
+      },
+      {
+        "Text": "se administrează medicamente de resuscitare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se imobilizează membrele",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce măsuri de prim ajutor se iau în cazul victimelor cu traumatisme ale coloanei vertebrale, dacă funcțiile vitale ale acesteia sunt asigurate?",
+    "Answers": [
+      {
+        "Text": "se transportă imediat victima la spital cu orice mijloc de transport aflat la îndemână",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se transportă imediat victima la spital așezată pe o platformă improvizată",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dacă nu există un alt pericol, nu se mișcă accidentatul din poziția în care se află până la sosirea serviciilor de urgență",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce rol au bandajele?",
+    "Answers": [
+      {
+        "Text": "imobilizează fracturile",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dezinfectează rănile",
+        "IsCorrect": false
+      },
+      {
+        "Text": "acoperă rănile, eventual opresc hemoragiile",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce trebuie să urmăriți la scoaterea victimelor dintr o ambarcațiune accidentată?",
+    "Answers": [
+      {
+        "Text": "să nu produceți pagube suplimentare ambarcațiunii accidentate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să nu le agravați leziunile",
+        "IsCorrect": true
+      },
+      {
+        "Text": "să conservați urmele accidentului",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cu ce se pot transporta la spital victimele unui accident naval, după ce au fost scoase la mal?",
+    "Answers": [
+      {
+        "Text": "Cu orice vehicul, dacă situația victimei permite acest lucru",
+        "IsCorrect": true
+      },
+      {
+        "Text": "numai cu ambulanța SMURD",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu o ambulanță însoțită de un medic specialist",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum extrageți corpii străini din interiorul plăgilor?",
+    "Answers": [
+      {
+        "Text": "prin spalare cu apă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin extragere cu mâna",
+        "IsCorrect": false
+      },
+      {
+        "Text": "renunțăm la asemenea manevră întrucât riscăm să agravăm starea victimei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum pot fi recunoscute fracturile la membrele victimelor unei coliziuni?",
+    "Answers": [
+      {
+        "Text": "prin elasticitatea exagerată a membrului fracturat",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin culoarea roșie a zonei fracturate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin mișcarea nenaturală a membrului fracturat",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum procedați dacă în timpul masajului cardio-respirator victima își recapătă pulsul?",
+    "Answers": [
+      {
+        "Text": "continuați compresiile exterioare ale pieptului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "încetați compresiile exterioare ale pieptului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "continuați cu respirație artificială",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum procedați pentru a evita complicațiile în cazul unei fracturi?",
+    "Answers": [
+      {
+        "Text": "suspendați zona fracturată cu o fașă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "imobilizați zona fracturată",
+        "IsCorrect": true
+      },
+      {
+        "Text": "sterilizați zona fracturată",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se imobilizează fractura labei piciorului?",
+    "Answers": [
+      {
+        "Text": "cu o atelă de la gleznă până la genunchi",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin fixarea piciorului într-o chingă de piele",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu atele sau bandaj, cât mai rigide, de la degete până la genunchi",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se imobilizează membrele superioare care au suferit fracturi?",
+    "Answers": [
+      {
+        "Text": "cu o eșarfă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu o legătură elastică",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu atele, chiar improvizate",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se poate imobiliza o fractură fără atele?",
+    "Answers": [
+      {
+        "Text": "cu carton",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu folie de material plastic",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu eșarfe și triunghiuri de pânză",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se recunoaște o fractură deschisă?",
+    "Answers": [
+      {
+        "Text": "zona fracturată nu se poate mișca",
+        "IsCorrect": false
+      },
+      {
+        "Text": "zona fracturată este înroșită",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pielea este străpunsă în zona fracturii și se vede osul",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie așezat accidentatul care prezintă hemoragie externă?",
+    "Answers": [
+      {
+        "Text": "astfel încât zona să fie mai jos decât nivelul corpului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "astfel încât zona să fie mai sus decât nivelul corpului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "cu picioarele mai sus decât nivelul capului",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie așezată o persoană rănită care prezintă leziuni ale coloanei vertebrale?",
+    "Answers": [
+      {
+        "Text": "dacă este posibil, victima nu trebuie mișcată până la sosirea medicului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "orizontal, cu fața în jos",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orizontal, cu fața în sus",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie resuscitată o victimă a unei coliziuni, care are puls, dar nu respiră?",
+    "Answers": [
+      {
+        "Text": "prin aplicarea de palme peste fața victimei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin masaj cardio-respirator",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin executarea respirației artificiale",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să fie atela destinată imobilizării unei fracturi?",
+    "Answers": [
+      {
+        "Text": "flexibilă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cât mai rigidă și suficient de lungă pentru a cuprinde articulațiile superioară și inferioară a membrului fracturat",
+        "IsCorrect": true
+      },
+      {
+        "Text": "cât mai scurtă pentru a nu incomoda rănitul",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum veți proceda dacă victima căreia i-ați efectuat masaj cardio respirator își revine?",
+    "Answers": [
+      {
+        "Text": "așteptați să vedeți cum evoluează starea ei de sănătate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o conduceți la mal",
+        "IsCorrect": false
+      },
+      {
+        "Text": "luați măsuri pentru transportarea ei la spital",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Hemoragia nazală a unei victime se poate opri dacă aceasta:",
+    "Answers": [
+      {
+        "Text": "stă culcată cu mâna stângă ridicată deasupra capului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "stă culcată cu capul dat pe spate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "își strânge ambele nări cu degetele timp de aproximativ 5-10 minute",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În cazul unei coliziuni din care au rezultat mai multe victime, primul ajutor se acordă mai întâi:",
+    "Answers": [
+      {
+        "Text": "victimei cu cele mai mari șanse de supraviețuire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "victimei care comunică ușor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "victimei în starea cea mai gravă",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În ce constă primul ajutor în caz de traumatism al capului?",
+    "Answers": [
+      {
+        "Text": "aplicarea unor comprese pe frunte și pansarea părților tumefiate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "imobilizarea capului cu un dispozitiv improvizat",
+        "IsCorrect": false
+      },
+      {
+        "Text": "bandajarea plăgilor, degajarea căilor respiratorii, așezarea victimei pe o suprafață plană",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În ce loc se execută degajarea căilor respiratorii ale victimei unei coliziuni?",
+    "Answers": [
+      {
+        "Text": "la locul producerii coliziunii, cât mai urgent",
+        "IsCorrect": true
+      },
+      {
+        "Text": "la spital, cu instrumente speciale",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la sosirea ambulanței, de către personalul specializat",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În ce ordine se va lua măsurile de prim ajutor în funcție de starea victimei?",
+    "Answers": [
+      {
+        "Text": "oprirea hemoragiei, respirație artificială, masaj cardiac, pansarea rănilor, imobilizarea fracturilor",
+        "IsCorrect": true
+      },
+      {
+        "Text": "pansarea rănilor, imobilizarea fracturilor, oprire hemoragie, respirație artificială, masaj cardiac",
+        "IsCorrect": false
+      },
+      {
+        "Text": "imobilizarea fracturilor, pansarea rănilor, respirație artificială, masaj cardiac, oprirea hemoragiei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Masajul cardio-respirator trebuie efectuat victimelor:",
+    "Answers": [
+      {
+        "Text": "care nu respiră",
+        "IsCorrect": false
+      },
+      {
+        "Text": "care nu au puls și nu respiră",
+        "IsCorrect": true
+      },
+      {
+        "Text": "care au suferit traumatisme craniene",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Transportul victimelor unei coliziuni care prezintă hemoragii se face?",
+    "Answers": [
+      {
+        "Text": "imediat după oprirea hemoragiei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "imediat după pansarea rănilor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "imediat după anunțarea coliziunii",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Unde se verifică dacă victima unei coliziuni are puls, dacă aceasta respiră?",
+    "Answers": [
+      {
+        "Text": "lângă mărul lui Adam, în scobitura dintre trahee și mușchii gâtului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "în zona inimii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la încheietura mâinii",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Unde trebuie aplicat garoul de cauciuc în cazul persoanelor rănite care prezintă plăgi însoțite de hemoragii arteriale?",
+    "Answers": [
+      {
+        "Text": "peste plagă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sub plagă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "deasupra plăgii",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Substanțele antiseptice se folosesc pentru:",
+    "Answers": [
+      {
+        "Text": "calmarea durerilor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dezinfectarea rănilor",
+        "IsCorrect": true
+      },
+      {
+        "Text": "oprirea hemoragiei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Victima care a pierdut mult sânge trebuie să fie așezată:",
+    "Answers": [
+      {
+        "Text": "cu fața în sus",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu picioarele situate mai sus decât restul corpului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "cu fața în jos",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În cazul rănilor cu hemoragie se va avea în vedere la început:",
+    "Answers": [
+      {
+        "Text": "pansarea rănii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "curățarea și pansarea rănii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "oprirea hemoragiei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Când gura unui rănit rămâne încleștată respirația artificială se poate face?",
+    "Answers": [
+      {
+        "Text": "prin gura închisă a victimei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin nările victimei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu se mai face respirație artificială în acest caz",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cât poate fi menținut un garou pentru a nu afecta țesuturile?",
+    "Answers": [
+      {
+        "Text": "minimum 2 ore",
+        "IsCorrect": false
+      },
+      {
+        "Text": "maximum 4 ore",
+        "IsCorrect": false
+      },
+      {
+        "Text": "maximum 2 ore",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Dezinfectarea plăgilor ce necesită a fi pansate se face cu:",
+    "Answers": [
+      {
+        "Text": "apă oxigenată sau iod",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ser fiziologic",
+        "IsCorrect": false
+      },
+      {
+        "Text": "apă potabilă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se opresc hemoragiile la trunchi și cap?",
+    "Answers": [
+      {
+        "Text": "prin aplicarea unui garou de cauciuc",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prin orice mijloace",
+        "IsCorrect": false
+      },
+      {
+        "Text": "compreselor sterile și a pansamentelor compresive",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum procedați în cazul unei victime cu multiple arsuri pe cap și membre?",
+    "Answers": [
+      {
+        "Text": "arsurile se spală, se bandajează și apoi victima este transportată la cea mai apropiată unitate medicală",
+        "IsCorrect": false
+      },
+      {
+        "Text": "după stingerea flăcărilor persoana este dezbrăcată rapid de hainele arse",
+        "IsCorrect": false
+      },
+      {
+        "Text": "trebuie să fie transportată imediat la o unitate medicală",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Biletul care se prinde lângă garoul aplicat unei persoane rănite trebuie să conțină:",
+    "Answers": [
+      {
+        "Text": "poziția în care a fost găsită victima",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ora și minutul aplicării garoului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "numele persoanei care l-a aplicat",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce trebuie să conțină un pansament aplicat pe plagă?",
+    "Answers": [
+      {
+        "Text": "o compresă de tifon steril",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o compresă de orice tip",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o compresă de vată sterilă",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

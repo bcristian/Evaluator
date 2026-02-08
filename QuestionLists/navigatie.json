@@ -1,0 +1,1107 @@
+[
+  {
+    "Statement": "Scara numerică a unei hărți este?",
+    "Answers": [
+      {
+        "Text": "Raportul dintre lungimea și lățimea hărții",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Un număr de catalog",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Raportul dintre lungimea unitară de pe Pământ și corespondentul pe hartă",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În emisfera vestică, dacă nava se deplasează spre vest?",
+    "Answers": [
+      {
+        "Text": "latitudinea punctului de sosire este mai mică decât latitudinea punctului de sosire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "longitudinea punctului de plecare este mai mică decât longitudinea punctului de sosire",
+        "IsCorrect": true
+      },
+      {
+        "Text": "longitudinea punctului de plecare este mai mare decât longitudinea punctului de sosire",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Temperatura apei de mare se exprimă în?",
+    "Answers": [
+      {
+        "Text": "Milibari",
+        "IsCorrect": false
+      },
+      {
+        "Text": "grade Celsius",
+        "IsCorrect": true
+      },
+      {
+        "Text": "milimetri coloană de mercur",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Corespunzător sensului convențional de balizaj de la larg la uscat, în regiunea B, marcajele laterale au următoarele lumini?",
+    "Answers": [
+      {
+        "Text": "tribord-verde, babord-roșu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "tribord-albă fixă, babord- albă cu sclipiri",
+        "IsCorrect": false
+      },
+      {
+        "Text": "tribord-roșu, babord-verde",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul giro al navei este?",
+    "Answers": [
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la axul prova al navei până la direcția de vizare la un reper costier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord compas până la axul prova al navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord giro până la axul prova al navei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Relevmentul prova la un reper costier este?",
+    "Answers": [
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la axul prova al navei până la direcția de vizare la reperul costier",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord adevărat până la linia de vizare la reperul costier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord magnetic până la axul prova al navei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Latitudinea geografică este?",
+    "Answers": [
+      {
+        "Text": "Arcul de ecuator măsurat de la meridianul Greenwich până la meridianul locului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Arcul de paralel măsurat de la meridianul Greenwich până la meridianul locului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Arcul de meridian măsurat de la ecuatorul terestru până la paralelul locului",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În emisfera estică, dacă nava se deplasează spre vest?",
+    "Answers": [
+      {
+        "Text": "latitudinea punctului de sosire este mai mică decât latitudinea punctului de sosire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "longitudinea punctului de sosire este mai mică decât longitudinea punctului de plecare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "longitudinea punctului de sosire este mai mare decât longitudinea punctului de plecare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă vântul bate dinaintea traversului acesta produce?",
+    "Answers": [
+      {
+        "Text": "creșterea vitezei și derivă de vânt",
+        "IsCorrect": false
+      },
+      {
+        "Text": "numai creșterea vitezei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "micșorarea vitezei și derivă de vânt",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Relevmentul compas la un reper costier este?",
+    "Answers": [
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la axul prova al navei până la direcția de vizare la reperul costier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord compas până la linia de vizare la reperul costier",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord magnetic până la axul prova al navei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Longitudinea geografică este?",
+    "Answers": [
+      {
+        "Text": "Arcul de ecuator măsurat de la meridianul Greenwich până la meridianul locului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Arcul de paralel măsurat de la meridianul Greenwich până la meridianul locului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Arcul de meridian măsurat de la ecuatorul terestru până la paralelul locului",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În emisfera sudică, dacă nava se deplasează spre Nord?",
+    "Answers": [
+      {
+        "Text": "latitudinea punctului de plecare este mai mică decât latitudinea punctului de sosire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "latitudinea punctului de plecare este mai mare decât latitudinea punctului de sosire",
+        "IsCorrect": true
+      },
+      {
+        "Text": "longitudinea punctului de plecare este mai mică decât longitudinea punctului de sosire",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Acul magnetic al compasului magnetic de la bordul navei se orientează pe direcția?",
+    "Answers": [
+      {
+        "Text": "Nord adevărat",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nord giro",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nord compas",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Marcajele laterale din sistemul de balizaj semnalizează?",
+    "Answers": [
+      {
+        "Text": "Limitele laterale ale unui pericol de navigație",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Limitele laterale ale unei serii de pericole de navigație",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Limitele laterale ale șenalului navigabil",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul magnetic al navei este?",
+    "Answers": [
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la axul prova al navei până la direcția de vizare la un reper costier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord compas până la axul prova al navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord magnetic până la axul prova al navei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Relevmentul magnetic la un reper costier este?",
+    "Answers": [
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la axul prova al navei până la direcția de vizare la reperul costier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord adevărat până la linia de vizare la reperul costier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord magnetic până la linia de vizare la reperul costier",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Polii geografici sunt?",
+    "Answers": [
+      {
+        "Text": "Cele două puncte în care axa de rotație intersectează suprafața Pământului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Punctele în care linia ce trece prin centrul Pământului și punctul navei intersectează suprafața Pământului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Punctele în care linia ce trece prin centrul Pământului și prin observatorul astronomic de la Greenwich intersectează suprafața Pământului",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Adâncimea apei se măsoară cu?",
+    "Answers": [
+      {
+        "Text": "lochul",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sonda",
+        "IsCorrect": true
+      },
+      {
+        "Text": "barometrul",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Reperele costiere utilizate pentru determinarea punctului navei pot fi?",
+    "Answers": [
+      {
+        "Text": "geamanduri, balize, scondri",
+        "IsCorrect": false
+      },
+      {
+        "Text": "alte nave aflate la ancoră",
+        "IsCorrect": false
+      },
+      {
+        "Text": "faruri",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul adevărat al navei este:",
+    "Answers": [
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la axul prova al navei până la direcția de vizare la un reper costier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord adevărat până la axul prova al navei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord compas până la axul prova al navei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă vântul bate din travers acesta produce?",
+    "Answers": [
+      {
+        "Text": "creșterea vitezei și derivă de vânt",
+        "IsCorrect": false
+      },
+      {
+        "Text": "doar creșterea vitezei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "derivă de vânt",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Lumina alternativă a unui far are următoarea semnificație?",
+    "Answers": [
+      {
+        "Text": "intensitatea luminii este variabilă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumina fixă combinata cu intensificare de lumina",
+        "IsCorrect": false
+      },
+      {
+        "Text": "culori diferite în sectoare strict delimitate",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Longitudinea geografică este?",
+    "Answers": [
+      {
+        "Text": "Arcul de ecuator măsurat de la meridianul Greenwich până la meridianul locului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Arcul de paralel măsurat de la meridianul Greenwich până la meridianul locului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Arcul de meridian măsurat de la ecuatorul terestru până la paralelul locului",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cartile pilot se corectează la zi utilizând?",
+    "Answers": [
+      {
+        "Text": "hartile rutiere",
+        "IsCorrect": false
+      },
+      {
+        "Text": "avizele pentru navigatori",
+        "IsCorrect": true
+      },
+      {
+        "Text": "hartile meteorologice în facsimil",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă vântul bate din prova tribord acesta produce?",
+    "Answers": [
+      {
+        "Text": "micșorarea vitezei și derivă de vânt la tribord",
+        "IsCorrect": false
+      },
+      {
+        "Text": "derivă de vânt la babord",
+        "IsCorrect": false
+      },
+      {
+        "Text": "micșorarea vitezei și derivă de vânt la babord",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul compas al navei este?",
+    "Answers": [
+      {
+        "Text": "unghiul din planul orizontului adevărat măsurat de la axul prova al navei până la direcția de vizare la un reper costier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "unghiul din planul orizontului adevărat măsurat de la direcția nord compas până la axul prova al navei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "unghiul din planul orizontului adevărat măsurat de la direcția nord magnetic până la axul prova al navei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Harta marină este?",
+    "Answers": [
+      {
+        "Text": "o hartă tematică care figurează aspecte detaliate ale întinderilor de apă de pe o anumită suprafață a scoarței terestre",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o harta geografică a unei porțiuni din suprafața Pământului care conține mări și oceane",
+        "IsCorrect": false
+      },
+      {
+        "Text": "este o reprezentare în plan, convențională, micșorată și generalizată a oceanului planetar",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În emisfera nordică, dacă nava se deplasează spre Nord?",
+    "Answers": [
+      {
+        "Text": "latitudinea punctului de plecare este mai mică decât latitudinea punctului de sosire",
+        "IsCorrect": true
+      },
+      {
+        "Text": "latitudinea punctului de plecare este mai mare decât latitudinea punctului de sosire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "longitudinea punctului de plecare este mai mică decât longitudinea punctului de sosire",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Relevmentul adevărat la un reper costier este?",
+    "Answers": [
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la axul prova al navei până la direcția de vizare la reperul costier",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord adevărat până la linia de vizare la reperul costier",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Unghiul din planul orizontului adevărat măsurat de la direcția nord magnetic până la axul prova al navei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Poziția navei se poate determina, printre altele, prin măsurători de?",
+    "Answers": [
+      {
+        "Text": "temperatură",
+        "IsCorrect": false
+      },
+      {
+        "Text": "relevmente",
+        "IsCorrect": true
+      },
+      {
+        "Text": "salinitate",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Linia de credință a compasului magnetic de la bord materializează?",
+    "Answers": [
+      {
+        "Text": "Direcția nord magnetic",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Axul longitudinal al navei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Direcția nord compas",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Viteza ambarcațiunii se măsoară cu:",
+    "Answers": [
+      {
+        "Text": "sonda;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "barometrul;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lochul.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Adâncimea apei se măsoară cu:",
+    "Answers": [
+      {
+        "Text": "lochul;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sonda;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "barometrul.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă vântul bate dinaintea traversului acesta produce:",
+    "Answers": [
+      {
+        "Text": "creșterea vitezei și derivă de vânt;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "numai creșterea vitezei;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "micșorarea vitezei și derivă de vânt.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă vântul bate din travers acesta produce:",
+    "Answers": [
+      {
+        "Text": "creșterea vitezei și derivă de vânt;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "doar creșterea vitezei;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "derivă de vânt.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă vântul bate din prova tribord acesta produce:",
+    "Answers": [
+      {
+        "Text": "micșorarea vitezei și derivă de vânt la tribord;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "derivă de vânt la babord;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "micșorarea vitezei și derivă de vânt la babord.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Temperatura apei de mare se exprimă in:",
+    "Answers": [
+      {
+        "Text": "milibari;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "grade Celsius;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "milimetri coloană de mercur.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Acul magnetic al compasului magnetic de la bordul ambarcațiunii se orientează pe direcția:",
+    "Answers": [
+      {
+        "Text": "Nord adevărat;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nord giro;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nord compas.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cele mai sigure repere costiere utilizate pentru determinarea punctului ambarcațiunii sunt:",
+    "Answers": [
+      {
+        "Text": "geamanduri, balize, scondri;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orice construcție de la coastă;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "faruri de aterizare.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Linia de credință a compasului magnetic de la bord materializează:",
+    "Answers": [
+      {
+        "Text": "direcția Nord magnetic;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "axul longitudinal al ambarcațiunii;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "direcția Nord compas.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Lumina unui far în izofaza are următoarea semnificație:",
+    "Answers": [
+      {
+        "Text": "durata de lumină este egală cu durata de întuneric;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "intensitatea luminii este constanta;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumina fixă este combinata cu o intensificare de lumina.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Corpul balizei marcajului cardinal de Vest este piturat în dungi orizontale dispuse de sus în jos astfel:",
+    "Answers": [
+      {
+        "Text": "galben-negru-galben;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "negru-galben-negru;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "negru-galben.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Corpul balizei marcajului cardinal de Nord este piturat în dungi orizontale dispuse de sus în jos astfel:",
+    "Answers": [
+      {
+        "Text": "negru-galben-negru;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "galben-negru-galben;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "negru-galben.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Corpul balizei marcajului cardinal de Est este piturat în dungi orizontale dispuse de sus în jos astfel:",
+    "Answers": [
+      {
+        "Text": "negru-galben-negru;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "galben-negru-galben;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "negru-galben.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Marcajul lateral de babord din regiunea A are ca semn de vârf:",
+    "Answers": [
+      {
+        "Text": "un con negru cu vârful în sus;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un cilindru verde:",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un cilindru roșu.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Marcajul lateral de tribord din regiunea A are ca semn de vârf:",
+    "Answers": [
+      {
+        "Text": "Un con verde cu vârful în sus;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un cilindru verde;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un cilindru roșu.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Marcajul de pericol izolat are ca semn de vârf:",
+    "Answers": [
+      {
+        "Text": "un con roșu cu vârful în sus;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o sferă de culoare roșie;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "doua bule suprapuse de culoare neagra.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Regula \"verde la tribord - roșu la babord\" valabilă în regiunea A de balizaj se aplica marcajelor laterale astfel:",
+    "Answers": [
+      {
+        "Text": "in sensul de la coasta către larg;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "in sensul de larg către coastă;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "este de competenta guvernelor statelor riverane.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Conducătorul de ambarcațiune vede pe timp de noapte în prova tribord un marcaj care emite un grup de doua sclipiri albe care se repeta regulat. Aceasta este:",
+    "Answers": [
+      {
+        "Text": "un semn de ape sigure;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un semn de pericol izolat;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un semn de vest.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Conducătorul de ambarcațiune vede pe timp de noapte în prova babord un marcaj care emite un grup de doua sclipiri albe care se repeta regulat. Aceasta este:",
+    "Answers": [
+      {
+        "Text": "un semn de ape sigure;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un semn de pericol izolat;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un semn de est.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Conducătorul de ambarcațiune vede pe timp de noapte în prova un marcaj care emite un grup de noua sclipiri albe care se repeta regulat. Aceasta este:",
+    "Answers": [
+      {
+        "Text": "un semn de ape sigure;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un semn de pericol izolat;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un semn de vest.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Conducătorul de ambarcațiune vede pe timp de noapte în prova un marcaj care emite un grup de noua sclipiri albe care se repeta regulat. Aceasta este:",
+    "Answers": [
+      {
+        "Text": "un semn de ape sigure;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un semn de vest;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un semn de pericol izolat.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Conducătorul de ambarcațiune vede pe timp de noapte în prova babord un marcaj care emite un grup de doua sclipiri albe care se repetă regulat. Aceasta este:",
+    "Answers": [
+      {
+        "Text": "un semn special;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un semn de pericol izolat;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un semn de vest.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cartul N este un cart:",
+    "Answers": [
+      {
+        "Text": "intercardinal;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cardinal;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "inter-intercardinal;",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cartul SW este un cart:",
+    "Answers": [
+      {
+        "Text": "intercardinal;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "cardinal;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "inter-intercardinal;",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cartul SSE este un cart:",
+    "Answers": [
+      {
+        "Text": "intercardinal;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cardinal;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "inter-intercardinal;",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cartul E la N este un cart:",
+    "Answers": [
+      {
+        "Text": "intercardinal;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "inter- intercadinal;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "intermediar",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul adevărat al ambarcațiunii este egal cu 090 grade; rezultă că ambarcațiunea se deplasează către:",
+    "Answers": [
+      {
+        "Text": "Vest;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Est;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Sud;",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul adevărat al ambarcațiunii este egal cu 000 grade; rezultă că ambarcațiunea se deplasează către:",
+    "Answers": [
+      {
+        "Text": "Nord;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Est;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Sud;",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul adevărat al ambarcațiunii este egal cu 180 grade; rezultă că ambarcațiunea se deplasează către:",
+    "Answers": [
+      {
+        "Text": "Vest;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Est;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Sud;",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul adevărat al ambarcațiunii este egal cu 270 grade; rezultă că ambarcațiunea se deplasează către:",
+    "Answers": [
+      {
+        "Text": "Vest;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Est;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Sud;",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul compas al ambarcațiunii se află cuprins în cadranul NE de orizont. Care din următoarele valori de drum compas este corectă?",
+    "Answers": [
+      {
+        "Text": "Dc = 212 grade;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Dc = 034 grade;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Dc = 328 grade.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul compas al ambarcațiunii se află cuprins în cadranul SE de orizont. Care din următoarele valori de drum compas este corectă?",
+    "Answers": [
+      {
+        "Text": "Dc = 112 grade;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Dc = 034 grade;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Dc = 328 grade.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul compas al ambarcațiunii se aflăa cuprins în cadranul SW de orizont. Care din următoarele valori de drum compas este corectă?",
+    "Answers": [
+      {
+        "Text": "Dc = 102 grade;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Dc = 234 grade;",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Dc = 328 grade.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Drumul compas al ambarcațiunii se află cuprins în cadranul NW de orizont. Care din următoarele valori de drum compas este corectă?",
+    "Answers": [
+      {
+        "Text": "Dc = 102 grade;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Dc = 234 grade;",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Dc = 328 grade.",
+        "IsCorrect": true
+      }
+    ]
+  }
+]

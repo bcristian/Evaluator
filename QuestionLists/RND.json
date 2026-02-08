@@ -1,0 +1,1141 @@
+[
+  {
+    "Statement": "Intervalul între sunetele care compun \"o serie de sunete foarte scurte\" este de :",
+    "Answers": [
+      {
+        "Text": "circa ½ s",
+        "IsCorrect": false
+      },
+      {
+        "Text": "circa 1 s",
+        "IsCorrect": false
+      },
+      {
+        "Text": "circa ¼ s",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Pentru evitarea unui pericol iminent, conducătorii trebuie să ia toate măsurile cerute de împrejurări, chiar dacă se îndepărtează de la dispoziţiile R.N.D.?",
+    "Answers": [
+      {
+        "Text": "Da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Numai pentru a salva nava",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În caz de accident care pune în pericol persoanele care se găsesc la bord, conducătorul trebuie :",
+    "Answers": [
+      {
+        "Text": "Să anunţe prin orice mijloace căpitănia portului cea mai apropiată pentru salvarea persoanelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Să se folosească de toate mijloacele care sunt la dispoziţia sa pentru salvarea acestor persoane",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Să ceară ajutor navelor care navigă în apropiere",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin termenul \"zi\" folosit în R.N.D ?",
+    "Answers": [
+      {
+        "Text": "Perioada cuprinsă între apusul şi răsăritul soarelui",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nu este prevăzut în R.N.D.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Perioada cuprinsă între răsăritul şi apusul soarelui",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Toate navele fluviale trebuie să aibă mărci care indică linia maximă de încărcare ?",
+    "Answers": [
+      {
+        "Text": "Da, exclusiv micile ambarcaţiuni",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Da, inclusiv micile ambarcaţiuni",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nu este prevăzut expres în R.N.D",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Durata unui sunet lung este de :",
+    "Answers": [
+      {
+        "Text": "Circa 5 secunde",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Circa 6 secunde",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Circa 4 secunde",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Conducătorii navelor remorcate trebuie să se conformeze ordinelor conducătorului convoiului ?",
+    "Answers": [
+      {
+        "Text": "Da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Numai în cazuri speciale",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "\"Bordul liber\" este :",
+    "Answers": [
+      {
+        "Text": "Distanţa dinte linia de încărcare maximă şi pescajul navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Distanţa dintre linia de încărcare maximă şi linia de încărcare minimă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Distanţa măsurată între planul de încărcare maximă şi suprafaţa punţii superioare în punctul ei cel mai de jos, sau în lipsa punţii, punctul cel mai de jos al părţii superioare a bordului fix",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin \"navă\" în sensul R.N.D. ?",
+    "Answers": [
+      {
+        "Text": "Mijlocul de navigaţie utilizat pentru realizarea activităţii de transport şi a altor servicii pe apă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Navele de navigaţie interioară, inclusiv ambarcaţiunile mici şi bacurile, precum şi aparatele plutitoare şi navele maritime",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Navele maritime, fluviale, aparatele plutitoare, plute, nave militare etc",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin termenul de \"în staţionare\" folosit în R.N.D. ?",
+    "Answers": [
+      {
+        "Text": "O navă, atunci când este legată la mal",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O navă sau un material plutitor asamblat când este legată la mal",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O navă, un material plutitor asamblat sau o instalaţie plutitoare atunci când este, în mod direct sau indirect ancorată sau legată la mal",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care sunt îndatoririle altor persoane care se găsesc la bordul navei :",
+    "Answers": [
+      {
+        "Text": "Să se supună dispoziţiilor conducătorului navei, în interesul siguranţei navigaţiei şi ordinii la bord",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Să se supună dispoziţiilor conducătorului navei, numai la ambarcarea şi debarcarea lor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nu este prevăzut expres în R.N.D",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Orice conducător de navă, dacă constată avarierea unei instalaţii de semnalizare (stingerea unei lumini, deplasarea unei geamanduri, distrugerea unui semnal etc.) este obligat :",
+    "Answers": [
+      {
+        "Text": "Să ia măsuri imediate de remediere a semnalului avariat",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Să anunţe fără întârziere căpitănia de port cea mai apropiată asupra avarierii instalaţiei de semnalizare respectivă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Să anunţe prin orice mijloc întreprinderea care are în administraţie întreţinerea şi semnalizarea căii navigabile",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin \"marş\" în sensul R.N.D. :",
+    "Answers": [
+      {
+        "Text": "Când o navă, un material plutitor asamblat sau o instalaţie plutitoare, nu este direct, nici în ancoră, nici legată la mal şi nici eşuată",
+        "IsCorrect": true
+      },
+      {
+        "Text": "O navă atunci când navigă chiar şi în derivă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O navă când nu este ancorată sau legată",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Navele de pasageri pot transporta un număr de pasageri corespunzător :",
+    "Answers": [
+      {
+        "Text": "Planurilor de construcţie ale navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Instrucţiunilor şantierului constructor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Autorizaţiei organelor competente",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin termenul de “noapte” în sensul R.N.D. ?",
+    "Answers": [
+      {
+        "Text": "Perioada cuprinsă între răsăritul şi apusul soarelui",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Perioada cuprinsă între apusul şi răsăritul soarelui",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Nu este prevăzut în R.N.D",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Durata unui sunet scurt este de :",
+    "Answers": [
+      {
+        "Text": "Circa o jumătate de secundă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Circa 1 secundă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Circa ¼ secundă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Scări de pescaj poartă navele care au pescajul de cel puţin :",
+    "Answers": [
+      {
+        "Text": "1 m",
+        "IsCorrect": true
+      },
+      {
+        "Text": "0,50 m",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1,20 m",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin “ambarcaţiune mică”, în sensul R.N.D. ?",
+    "Answers": [
+      {
+        "Text": "Orice navă cu lungimea corpului mai mică de 20 m, cu excepţia ambarcaţiunior mici care remorchează, împing sau duc cuplat nave, altele decât ambarcaţiuni mici, precum şi a bacurilor şi navelor autorizate să transporte mai mult de 12 pasageri",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Nave a căror lungime şi lăţime ale corpului sunt mai mici de 15 m şi respectiv, 3,50m sau al căror deplasament mediu este mai mic de 15 t, cu excepţia bacurilor, navelor care remorchează, împing sau duc cuplat nave, în afara ambarcaţiunilor mici",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nave a căror lungime şi lăţime ale corpului sunt mai mici de 15 m şi respectiv, 3,50 m sau al căror deplasament maxim este mai mic de 10 t, cu excepţia bacurilor, navelor care remorchează, împing sau duc cuplate nave, în afara ambarcaţiunilor mici",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin “serie de sunete foarte scurte “ ?",
+    "Answers": [
+      {
+        "Text": "O serie de cel puţin 6 sunete cu o durată de circa ¼ de secundă fiecare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "O serie de cel puţin 5 sunete cu o durată de ½ de secundă fiecare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O serie de cel puţin 7 sunete cu o durată de ⅓ de secundă fiecare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În scopul evitării de a pune în pericol viaţa persoanelor sau de a provoca pagube altor nave, conducătorii pot lua toate măsurile de precauţie, chiar dacă nu sunt prevăzute dispoziţii speciale în R.N.D. ?",
+    "Answers": [
+      {
+        "Text": "Da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Numai pentru a salva echipajul",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce obligaţii aveţi dacă sunteţi conducătorul unei nave şi vă găsiţi în apropierea altei nave avariate, ale cărei persoane sunt în pericol sau nava poate deveni un obstacol pentru navigaţie ?",
+    "Answers": [
+      {
+        "Text": "În măsura în care nu puneţi în pericol siguranţa propriei nave, daţi asistenţă imediat",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Fiind vorba de persoane în pericol, daţi asistenţă imediat",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Anunţaţi cea mai apropiată căpitănie de port",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Zona 1 a căii navigabile corespunde unei înălţimi aparente a valurilor de :",
+    "Answers": [
+      {
+        "Text": "0,6 m",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1,2 m",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 m",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Zona a 3-a a căii navigabile corespunde unei înălţimi aparente a valurilor de :",
+    "Answers": [
+      {
+        "Text": "2 m",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1,2 m",
+        "IsCorrect": false
+      },
+      {
+        "Text": "0,6 m",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Zona a 2-a a căii navigabile corespunde unei înălţimi aparente a valurilor de :",
+    "Answers": [
+      {
+        "Text": "1,2 m",
+        "IsCorrect": true
+      },
+      {
+        "Text": "0,6 m",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 m",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin termenul “navă care pescuieşte” ?",
+    "Answers": [
+      {
+        "Text": "Orice navă care pescuieşte cu ajutorul plasei, a cârmacei, cu traul sau alte mijloace de pescuit care-i reduc capacitatea de manevră",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Nava construită şi dotată pentru a pescui",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O navă care pescuieşte cu cârlige sau alte unelte de pescuit, care nu-şi reduce capacitatea de manevră",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin termenul “serie de bătăi de clopot“ ?",
+    "Answers": [
+      {
+        "Text": "Înseamnă două lovituri de clopot",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Înseamnă trei lovituri de clopot",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Înseamnă patru lovituri de clopot",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum pot fi folosite luminile şi proiectoarele ?",
+    "Answers": [
+      {
+        "Text": "Este interzis a se folosi lumini sau proiectoare astfel ca ele să poată fi confundate cu luminile sau semnalele menţionate în R.N.D. sau care pot dăuna asupra vizibilităţii acestor lumini sau semnale, sau ca ele să producă o orbire care constituie un pericol pentru navigaţie ori pentru circulaţia terestră",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Este interzisă cu desăvârşire folosirea lor în R.N.D",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nu se precizează folosirea lor în R.N.D",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este intensitatea şi arcul de orizont la care poate fi văzută o lumină albă din pupa unei nave ?",
+    "Answers": [
+      {
+        "Text": "Clară, 112° 30’",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Obişnuită, 1370",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Obişnuită, 1350",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini poartă navele ce navigă cu vele ?",
+    "Answers": [
+      {
+        "Text": "Două lumini, obişnuite sau clare suprapuse vizibile din toate părţile din care lumina superioară trebuie să fie roşie, iar lumina inferioară verde; aceste lumini trebuie să fie dispuse într-un loc corespunzător, în partea superioară sau în vârful catargului, la o distanţă de cel puţin 1 m una de cealaltă. Luminile din borduri verde/roşu obişnuite şi lumina albă obişnuită de pupa",
+        "IsCorrect": true
+      },
+      {
+        "Text": "O lumină albă obişnuită, iar la apropierea de o altă navă arată o a doua lumină albă obişnuită la prova",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Două lumini albe obişnuite la prova",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini trebuie să poarte, noaptea, ambarcaţiunile mici autopropulsate, a căror lungime a corpului nu depăşeşte 20 m, care remorchează sau duc în cuplu ambarcaţiuni mici ?",
+    "Answers": [
+      {
+        "Text": "Nu este prevăzut în R.N.D.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Luminile unei nave autopropulsate, cu convoi remorcat sau în cuplu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Luminile unei ambarcaţiuni mici autopropulsate ce navigă izolat şi a cărei lungime nu depăşeşte 20 m",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini pot să poarte noaptea, ambarcaţiunile mici autopropulsate, ce nu depăşesc 7 m, în marş ?",
+    "Answers": [
+      {
+        "Text": "O lumină albă obişnuită, dispusă într-un loc corespunzător şi la o înălţime de la care să fie vizibilă din toate părţile",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Două lumini albe obişnuite la catarg",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Luminile unei nave autopropulsate în marş",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ambarcaţiunea mică legată la mal, noaptea, cu excepţia bărcilor de serviciu ale navelor trebuie să poarte :",
+    "Answers": [
+      {
+        "Text": "O lumină albă obişnuită dispusă într-un loc corespunzător şi la o astfel de înălţime încăt să fie vizibilă din toate părţile",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Nu este obligatorie semnalizarea",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O lumină albă obişnuită dispusă la cel puţin 3 m deasupra liniei de încărcare maximă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Plasele sau alte unelte de pescuit ale navelor care pescuiesc, ziua întinse în apropierea şenalului şi care pot prezenta o piedică pentru navigaţie, vor fi semnalizate cu :",
+    "Answers": [
+      {
+        "Text": "Geamanduri, în număr suficient fiecare, purtând câte un pavilion alb pentru a indica poziţia lor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Flotoare sau pavilioane galbene, în număr suficient pentru a indica poziţia lor",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Orice obiecte plutitoare, în număr suficient pentru a indica poziţia lor",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini trebuie să aibă o ambarcaţiune mică cu rame, noaptea în marş ?",
+    "Answers": [
+      {
+        "Text": "Trebuie să arate o lumină albă obişnuită vizibilă din toate părţile la apropierea altor nave",
+        "IsCorrect": true
+      },
+      {
+        "Text": "O lumină albă obişnuită, vizibilă pe întreg orizontul (360°)",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O lumină albă obişnuită, vizibilă pe un arc de orizont de 225°",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini trebuie să poarte navele cu vele în marş şi unde ?",
+    "Answers": [
+      {
+        "Text": "Luminile unei nave izolate autopropulsate în marş sau dacă sunt ambarcaţiuni mici, luminile ambarcaţiunilor mici",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O singură lumină albă obişnuită, iar la apropierea de o navă să arate o a doua lumină albă la prova",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Două lumini obişnuite sau clare suprapuse vizibile din toate părţile, din care lumina superioară trebuie să fie roşie, iar lumina inferioară verde. Aceste lumini trebuie să fie dispuse, într-un loc corespunzător în partea superioară sau în vârful catargului la distanţă de cel puţin 1 m una de cealaltă. Luminile din borduri verde şi roşu şi lumina albă de pupa",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "O navă care navigă cu vele folosind în acelaşi timp şi motor, ziua în marş, trebuie să poarte:",
+    "Answers": [
+      {
+        "Text": "O bulă neagră dispusă la cel puţin 3 m deasupra liniei de maximă încărcare astfel încât să fie vizibilă în toate părţile",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Un con negru cu vârful în jos, amplasat cât mai sus posibil şi într-un loc unde va fi cel mai vizibil",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Un con negru cu vârful în sus dispus la cel puţin 3 m deasupra liniei de maximă încărcare, astfel încât să fie vizibil în toate părţile",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Semnalizarea prevăzută pentru noapte la nave trebuie să fie purtată, în plus, şi ziua , în condiţii de :",
+    "Answers": [
+      {
+        "Text": "Vizibilitate redusă : ceaţă, ninsoare etc",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Avarie la bordul navei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Răniţi sau bolnavi la bord",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este semnalizarea suplimentară a navelor de supraveghere fluvială ziua în marş în exercitarea atribuţiunilor lor :",
+    "Answers": [
+      {
+        "Text": "Ca a unei nave izolate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Ziua arborează o flamură albă în centrul căreia se găseşte un romb alb încadrat de un chenar albastru",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Ziua arborează o flamură albă în centrul căreia se găseşte un romb alb încadrat cu un chenar albastru şi arată o lumină albastră intermitentă",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Emiterea de către o navă a unui semnal fonic lung pe vizibilitate bună are semnificaţia de :",
+    "Answers": [
+      {
+        "Text": "Navigaţie periculoasă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Atenţie",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Semnal premergător intenţiei de a depăşi",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este culoarea, forma şi care sunt caracteristicile unei geamanduri de bifurcaţie ?",
+    "Answers": [
+      {
+        "Text": "De formă sferică vopsită (piturată) în verde-roşu-verde-roşu, lumină de culoare albă intermitentă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "De formă sferică vopsită (piturată) în alb-negru-alb-negru, lumină de culoare albă intermitentă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "De formă sferică vopsită (piturată) în roşu-negru-roşu-negru, lumină de culoare albă intermitentă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care sunt caracteristicile luminii de coastă (far) de bifurcaţie ?",
+    "Answers": [
+      {
+        "Text": "Două panouri triunghiulare albe, unul deasupra celuilalt şi opuse la vârf, cel de deasupra mărginit cu bandă roşie cel de jos cu bandă verde, lumină albă intermitentă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Suport de culoare albă, lumină galbenă fixă, un disc piturat negru-roşu-negru-roşu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Suport de culoare albă, lumină albă fixă, un disc piturat roşu-negru-roşu-negru",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Atunci când o navă este în pericol şi vrea să ceară ajutor, poate emite semnale sonore ?",
+    "Answers": [
+      {
+        "Text": "Da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nu este prevăzut în R.N.D.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Şcondrii pentru dreapta au culoarea :",
+    "Answers": [
+      {
+        "Text": "Verde",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Neagră",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Roşie",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Se pot folosi lumini şi semnale ce nu sunt prevăzute în R.N.D ?",
+    "Answers": [
+      {
+        "Text": "Nu sunt permise alte semnale decât cele prevăzute în R.N.D",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Da, numai pentru comunicări între nave, între nave şi uscat, cu condiţia să nu se confunde cu luminile şi semnalele prevăzute de R.N.D",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Da, numai în sectorul Dunării maritime",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Pe întregul parcurs navigabil al fluviului, şenalul este balizat după sistemul :",
+    "Answers": [
+      {
+        "Text": "Lateral",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Cardinal",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Lateral şi cardinal",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Atunci când o navă aflată în pericol vrea să ceară ajutor, ea poate să emită :",
+    "Answers": [
+      {
+        "Text": "“O serie de sunete de clopot”",
+        "IsCorrect": false
+      },
+      {
+        "Text": "“O serie de cinci sunete lungi” la interval de un minut",
+        "IsCorrect": false
+      },
+      {
+        "Text": "“O serie de sunete de clopot” sau “sunete lungi” cu alte mijloace acustice repetate",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Nava care emite, “serie de sunete foarte scurte” ce semnalizează ?",
+    "Answers": [
+      {
+        "Text": "Este în imposibilitatea de manevră",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Este în pericol şi cere ajutor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Este în pericol iminent de abordaj",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Şcondri pentru stânga au culoarea :",
+    "Answers": [
+      {
+        "Text": "Verde",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Neagră",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Roşie",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este forma, culoarea şi care sunt caracteristicile unei geamanduri pentru stânga ?",
+    "Answers": [
+      {
+        "Text": "De formă sferică, piturată în negru-roşu-negru-roşu, lumina de culoare albă intermitentă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "De formă conică, piturată în verde, lumina de culoare verde intermitentă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "De formă cilindrică, piturată în roşu, lumina de culoare roşie intermitentă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum semnalizează noaptea navele care sunt în pericol şi cer ajutor ?",
+    "Answers": [
+      {
+        "Text": "Agită circular o lumină",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Aprind o lumină roşie intermitentă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Agită o lumină indiferent de culoare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Geamandurile de culoare verde cu lumină verde intermitentă balizează :",
+    "Answers": [
+      {
+        "Text": "Partea stângă a şenalului şi pericolele de la malul stâng",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Partea dreapta a şenalului şi pericolele de la malul drept",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Pericolele de navigaţie situate în şenal",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Lumina de coastă (far) de pe malul stâng, are următoarele caracteristici :",
+    "Answers": [
+      {
+        "Text": "Suport de culoare albă, lumină de culoare verde intermitentă şi un panou de formă rombică, piturat jumătate verde-partea de sus şi jumătate alb-partea de jos",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Suport de culoare albă, lumină de culoare verde intermitentă şi un panou dreptunghiular, piturat la partea superioară şi inferioară cu câte o dungă albă, iar între cele două dungi albe piturat cu roşu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Suport de culoare albă, cu lumină de culoare roşie intermitentă şi un panou de formă rombică, piturat jumătate negru la partea superioară şi jumătate alb la partea inferioară",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Geamandurile luminoase şi neluminoase, şcondrii şi jaloanele pentru dreapta sau pentru stânga, în principiu ce marchează ?",
+    "Answers": [
+      {
+        "Text": "Limita şenalului şi pericolele de la malul respectiv",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Pericolele de navigaţie situate în şenal",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Pericolele de la malul respectiv",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Lumina de coastă (far) de pe malul drept şi lumina de coastă (far) de pe malul stâng în principiu indică :",
+    "Answers": [
+      {
+        "Text": "Pericolele din apropierea malurilor şi în acelaşi timp apropierea şenalului de maluri",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Direcţia aproximativă a şenalului în raport cu malul şi serveşte în acelaşi timp ca punct de reper",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Direcţia şenalului în raport cu pericolele de la maluri",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Navele care sunt în pericol şi cer ajutor, ce semnal vizual arată ziua ?",
+    "Answers": [
+      {
+        "Text": "Agită un pavilion alb",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Agită circular un pavilion sau orice alt obiect asemănător",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Agită circular un balon roşu",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnificaţie au geamandurile de culoare roşie cu lumina roşie intermitentă ?",
+    "Answers": [
+      {
+        "Text": "Marchează limitele şenalului şi direcţia sa, balizând partea stângă a şenalului şi pericolele de la malul stâng",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Marchează limitele şenalului şi direcţia sa, balizând partea dreaptă a şenalului şi pericolele de la malul drept",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Balizează pericolele de navigaţie situate în şenal",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Lumina de coastă (far) de pe malul drept are următoarele caracteristici:",
+    "Answers": [
+      {
+        "Text": "Suport de culoare albă, lumină de culoare verde intermitentă şi un panou pătrat roşu, mărginit de două benzi orizontale albe",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Suport de culoare albă, lumină de culoare roşie intermitentă şi un panou pătrat roşu, mărginit de două benzi orizontale albe",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Suport de culoare albă, lumină de culoare roşie intermitentă şi un panou pătrat verde mărginit de două benzi orizontale albe",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnificaţie au geamandurile luminoase şi neluminoase, şcondrii şi jaloanele de joncţiune şi de bifurcaţie ?",
+    "Answers": [
+      {
+        "Text": "Semnalizează numai joncţiunea şi bifurcaţia şenalului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Balizează numai pericolele de navigaţie situate pe şenal",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Semnalizează joncţiunea şi bifurcaţia şenalului şi în afară de aceasta balizează pericolele de navigaţie din şenal",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care este forma, culoarea şi care sunt caracteristicile luminii unei geamanduri pentru dreapta ?",
+    "Answers": [
+      {
+        "Text": "De formă sferică, piturată în negru–roşu-negru–roşu, lumina de culoare albă intermitentă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "De formă conică, piturată în negru, lumina de culoare verde intermitentă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "De formă cilindrică, piturată în roşu, lumina de culoare roşie intermitentă",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Jaloanele de aliniament indică :",
+    "Answers": [
+      {
+        "Text": "Axa traversării",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Pericolele de navigaţie de la malul drept sau stâng",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Începutul sau sfârşitul traversării şenalului",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ambarcaţiunile mici care navigă izolat şi convoaiele remorcate sau formaţiunile în cuplu compuse numai din ambarcaţiuni mici, sunt obligate :",
+    "Answers": [
+      {
+        "Text": "Să nu jeneze mişcările şi manevrele celorlalte nave",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Să traverseze calea navigabilă numai în porturi",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Să navige numai ziua",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Toate navele trebuie să treacă în timpul cel mai scurt posibil trecerile înguste ?",
+    "Answers": [
+      {
+        "Text": "Nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nu este prevăzut în R.N.D.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Da",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cine cedează drumul în cazul întâlnirii dintre două ambarcaţiuni mici, dintre care una este autopropulsată şi cealaltă nepropulsată ?",
+    "Answers": [
+      {
+        "Text": "Ambarcaţiunea autopropulsată",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Ambarcaţiunea nepropulsată",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Ambele, după ce în prealabil s-au înţeles prin semnale",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Amonte pe calea navigabilă este sensul :",
+    "Answers": [
+      {
+        "Text": "Spre izvor",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Spre revărsare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "De la un mal la celălalt",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Este interzis a se angaja cu o navă în intervalele dintre unităţile unui convoi remorcat ?",
+    "Answers": [
+      {
+        "Text": "Da",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Nu",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nu este prevăzut în Regulament",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Unde este interzis de a se instala plase sau alte unelte de pescuit ?",
+    "Answers": [
+      {
+        "Text": "În canale navigabile",
+        "IsCorrect": false
+      },
+      {
+        "Text": "În locurile de ancoraj",
+        "IsCorrect": false
+      },
+      {
+        "Text": "În şenalul navigabil",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Când nu se aplică interdicţia de a se lăsa să se târască ancore, parâme sau lanţuri ?",
+    "Answers": [
+      {
+        "Text": "În cazul micilor deplasări la locurile de staţionare sau în cazul manevrelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Întotdeauna, în sectoarele unde este permisă ancorarea",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Când şenalul are o lăţime absolut suficientă, iar adâncimile trec de 6 m",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

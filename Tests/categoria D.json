@@ -1,0 +1,12 @@
+{
+  "Name": "Categoria D (ape interioare)",
+  "MaxTimeSeconds": 1800,
+  "RequiredCorrectToPass": 22,
+  "QuestionLists": [
+    { "Path": "QuestionLists\\RND.json", "Count": 10 },
+    { "Path": "QuestionLists\\marinarie.json", "Count": 6 },
+    { "Path": "QuestionLists\\manevra.json", "Count": 6 },
+    { "Path": "QuestionLists\\legislatie.json", "Count": 2 },
+    { "Path": "QuestionLists\\prim ajutor.json", "Count": 2 }
+  ]
+}

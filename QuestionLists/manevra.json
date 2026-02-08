@@ -1,0 +1,1396 @@
+[
+  {
+    "Statement": "La deplasarea înainte a bărcii, efectul cârmei determină?",
+    "Answers": [
+      {
+        "Text": "orientarea provei în vânt",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orientarea provei în bordul în care s-a pus cârma şi a pupei în bordul opus",
+        "IsCorrect": true
+      },
+      {
+        "Text": "mersul în linie dreaptă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La marş înainte, pupa este abătută?",
+    "Answers": [
+      {
+        "Text": "spre dreapta",
+        "IsCorrect": false
+      },
+      {
+        "Text": "în bordul pasului elicei, iar prova are tendinţa să gireze în bordul opus pasului elicei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "spre stânga",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Acostarea ambarcaţiunii la mal neamenajat?",
+    "Answers": [
+      {
+        "Text": "nu este recomandată",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se face cu vigilenţă sporită, protejând elicea şi cârma",
+        "IsCorrect": true
+      },
+      {
+        "Text": "este interzisă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Depăşirile se execută?",
+    "Answers": [
+      {
+        "Text": "la o distanță cât mai mare de nava depăşită, viteza se adaptează situaţiei, urmărind a nu face valuri pentru nava depăşită, dar acordând atenţia necesară întâmpinării valurilor din siajul acesteia",
+        "IsCorrect": true
+      },
+      {
+        "Text": "de către ambarcaţiunea care merge pe mijlocul şenalului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "oricum deoarece nu sunt reguli speciale de siguranţă în cazul acestei manevre",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Remorcarea este o operaţiune la care lungimea parâmei de remorcă?",
+    "Answers": [
+      {
+        "Text": "se va alege astfel încât nava remorcată să nu suporte curentul respins de elicea navei remorcher",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu contează lungimea parâmei de legare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu se fac remorcări cu ambarcaţiuni",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Înainte de pătrunderea în ecluză?",
+    "Answers": [
+      {
+        "Text": "nu trebuiesc făcute pregătiri speciale la bordul ambarcaţiunilor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la bordul ambarcaţiunilor parâmele trebuie ţinute din scurt şi componentele echipamentului trebuie să nu depăşească limitele navei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "conducătorul nu are nici o obligaţie",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Din motive de siguranţă şi fluidizare a circulaţiei, pentru accelerarea traversării şi pentru exploatarea în plin a ecluzelor?",
+    "Answers": [
+      {
+        "Text": "personalul de supraveghere a ecluzelor poate emite ordine care să completeze regulile iniţial prevăzute sau care se abat de la acestea, iar conducătorii navelor trebuie să urmeze aceste ordine în zona de ecluzare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "personalul de supraveghere a ecluzelor nu are permisiunea de a emite ordine care să completeze regulile iniţial prevăzute",
+        "IsCorrect": false
+      },
+      {
+        "Text": "este permisă orice măsură propusă de conducătorii navelor",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În funcţie de tipul cocii, viteza bărcii este cu atât mai mare cu cât?",
+    "Answers": [
+      {
+        "Text": "suprafaţa udată la viteza maximă este mai mare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "suprafaţa udată la viteza maximă este mai mică",
+        "IsCorrect": true
+      },
+      {
+        "Text": "elicea are mai multe pale",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Înainte de a părăsi locul de acostare?",
+    "Answers": [
+      {
+        "Text": "îndepărtaţi orice material în plus din barca şi lăsaţi-l la ţărm; dacă aveţi nevoie de el la bord, asiguraţi-vă că este depozitat în siguranţă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu este nevoie de asemenea pregătire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "puteţi depozita materialele după libera dvs. alegere",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Alegerea celei mai bune elice şi a înălţimii motorului necesită verificarea câtorva lucruri precum?",
+    "Answers": [
+      {
+        "Text": "turaţia maximă a motorului; viteza bărcii; ventilaţia elicei; abilitatea de glisare a bărcii; presiunea de răcire",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lungimea bărcii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pescajul şi lăţimea bărcii",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Numărul de ture pe care îl efectuează o elice în mişcarea sa de rotaţie într-un interval de timp de un minut reprezintă?",
+    "Answers": [
+      {
+        "Text": "numărul de rotaţii al elicei pe minut (RPM)",
+        "IsCorrect": true
+      },
+      {
+        "Text": "spaţiul parcurs de elice într-un minut",
+        "IsCorrect": false
+      },
+      {
+        "Text": "viteza de rotaţie a elicei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Legăturile ambarcaţiunii sunt?",
+    "Answers": [
+      {
+        "Text": "parâma pupa",
+        "IsCorrect": false
+      },
+      {
+        "Text": "parâma prova şi pupa",
+        "IsCorrect": true
+      },
+      {
+        "Text": "parâma prova",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Locul de ancorare trebuie să îndeplinească o serie de condiţii?",
+    "Answers": [
+      {
+        "Text": "să permită o ancorare-plecare uşoară, fără să deranjeze alte ambarcaţiuni",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu sunt impuse condiţii speciale pentru ancorare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "este interzisă ancorarea în afara radelor",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În cazul în care nu putem observa în mod clar felul cum acţionează curentul şi vântul în cazul manevrei de ,,Om la apă”?",
+    "Answers": [
+      {
+        "Text": "nu facem manevra de recuperare a celui căzut în apă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "venim iniţial cu prova pe direcţia inversă a rezultantei, căutând efectul minim de derivă şi ne apropiem de cel căzut în apă cu viteza scăzută",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu este nevoie de nici o estimare a efectului curentului si vântului",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În timpul ecluzării, în camerele ecluzelor?",
+    "Answers": [
+      {
+        "Text": "este interzisă curăţarea şi maturarea navelor şi corpurilor flotante",
+        "IsCorrect": true
+      },
+      {
+        "Text": "este permisă curăţarea şi maturarea navelor şi corpurilor flotante",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu este prevăzută expres această regulă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Conducerea de motovehicule nautice (skyjet) este supusă următoarelor limite?",
+    "Answers": [
+      {
+        "Text": "motorul nu se opreşte la căderea conducătorului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "regulile de construcţie privesc pe constructor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "motorul trebuie sau să se oprească automat la căderea conducătorului, sau să fie cuplat automat pe cea mai mică viteză, în timp ce vehiculul trebuie să se oprească sau să descrie o traiectorie circulară",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă barca dumneavoastră este echipată cu un sistem de cablu împinge-trage, mecanic?",
+    "Answers": [
+      {
+        "Text": "toate componentele sistemului trebuie să îndeplinească sau să depăşească cererile menţionate în standard",
+        "IsCorrect": true
+      },
+      {
+        "Text": "componentele sistemului pot fi alese după aprecierea proprietarului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu există reguli şi standarde pentru această instalaţie",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Manevra de oprire se execută astfel?",
+    "Answers": [
+      {
+        "Text": "in cazul in care nu exista nici un motiv sa faceţi altfel, reduceţi in mod gradat viteza, deoarece reducerea brusca poate face ca valul de pupa sa se lovească de oglinda bărcii si sa se reverse in interior",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ambarcaţiunea se opreşte rapid, prin punerea pe zero si cuplarea pe înapoi a motorului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "barca se opreşte din mers prin scoaterea cheii din contact",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă înclinaţi motorul în sus la viteze mari?",
+    "Answers": [
+      {
+        "Text": "nu se observa nici un efect",
+        "IsCorrect": false
+      },
+      {
+        "Text": "forţele turbionare vor acţiona brusc şi pot cauza pierderea controlului ambarcaţiunii",
+        "IsCorrect": true
+      },
+      {
+        "Text": "barca se înclină în bordul pasului elicei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La acostare se folosesc?",
+    "Answers": [
+      {
+        "Text": "baloane de protecţie polivinilice umplute cu aer",
+        "IsCorrect": true
+      },
+      {
+        "Text": "corpul ambarcaţiunii nu se protejează",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orice fel de obiecte din metal sau lemn",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cu cât viteza de deplasare este mai mare?",
+    "Answers": [
+      {
+        "Text": "presiunea apei asupra penei cârmei va fi mai mare, iar schimbarea direcţiei mai rapidă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "presiunea apei asupra penei cârmei va fi mai mică, iar schimbarea direcţiei mai înceată",
+        "IsCorrect": false
+      },
+      {
+        "Text": "viteza nu influenţează rapiditatea schimbării direcţiei de navigaţie",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Mărimea şi forma elicei depinde de?",
+    "Answers": [
+      {
+        "Text": "turaţia dată la axul elicei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "puterea motorului, mărimea corpului ambarcaţiunii şi scopul pentru care este destinată barca, tracţiune sau viteză",
+        "IsCorrect": true
+      },
+      {
+        "Text": "parametrii motorului",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Guvernarea poate fi îmbunătăţită de:",
+    "Answers": [
+      {
+        "Text": "reducerea numărului de cârme",
+        "IsCorrect": false
+      },
+      {
+        "Text": "mărimea suprafeţei penei cârmei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "micşorarea unghiului de rotire a cârmei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La manevra de acostare, pe lângă calităţile manevriere ale navei, tot timpul se va ţine cont de vânt şi curent urmărindu-se?",
+    "Answers": [
+      {
+        "Text": "să se evite influenţa lor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ca forţa acestora să fie folosită în ajutorul manevrei şi nu manevra săse împotrivească acestora",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu se ţine cont de vânt şi curent",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Manevra de ”Om la apă“ este o manevră clasică de recuperare care se efectuează?",
+    "Answers": [
+      {
+        "Text": "ţinând cont de efectul vântului şi curentului asupra ambarcaţiunii şi persoanei căzute în apă, astfel încât ambarcaţiunea să nu derive peste omul",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu este nevoie de nici o estimare a efectului curentului si vântului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "această manevră o fac numai navele de salvare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În camerele ecluzei:",
+    "Answers": [
+      {
+        "Text": "nu se folosesc baloanele/trancheţi pentru acostare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "este obligatorie folosirea trancheţilor pentru acostare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se folosesc trancheţi care trebuie să fie flotabili, dacă nu sunt legaţi strâns-fixaţi de navă",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Conducerea de motovehicule nautice (skyjet-uri) este supusă următoarelor limite?",
+    "Answers": [
+      {
+        "Text": "se poate naviga atât ziua cât şi noaptea",
+        "IsCorrect": false
+      },
+      {
+        "Text": "este permisă numai ziua",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu sunt prevăzute reguli exprese",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Indicatorul înclinării este folosit?",
+    "Answers": [
+      {
+        "Text": "la ridicarea cizmei/motorului pentru controlul elicei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "numai de persoanele autorizate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sa orienteze motorul la un unghi predeterminat pentru o performanţă mai bună în navigaţie",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Înainte de a părăsi locul de acostare:",
+    "Answers": [
+      {
+        "Text": "asiguraţi-vă că operaţiunile de pe algoritmul verificărilor dumneavoastră au fost parcurse",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu se fac nici un fel de verificări",
+        "IsCorrect": false
+      },
+      {
+        "Text": "toate verificările sunt făcute de către un service",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Pasul elicei reprezintă:",
+    "Answers": [
+      {
+        "Text": "mărimea diametrului butucului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lungimea palei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "spaţiul parcurs de marginea exterioară a elicei in mişcarea de translaţie efectuată de-a lungul axei de rotaţie în timpul unei rotaţii complete",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Locul de ancorare trebuie să îndeplinească o serie de condiţii:",
+    "Answers": [
+      {
+        "Text": "este interzisă ancorarea în afara radelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să fie un loc ferit de efectele curenţilor, valurilor şi vântului",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu sunt impuse condiţii speciale pentru ancorare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În categoria ecluzelor intră:",
+    "Answers": [
+      {
+        "Text": "ecluzele şi suprafeţele de apă dinăuntrul şi dinafara sasurilor ecluzelor care servesc legării la cheu, înşiruirii şi aşteptării navelor –avanporturile de ecluză",
+        "IsCorrect": true
+      },
+      {
+        "Text": "barajele şi porţile amonte şi aval",
+        "IsCorrect": false
+      },
+      {
+        "Text": "numai sasurile ecluzelor",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În timpul ecluzării, în camerele ecluzelor?",
+    "Answers": [
+      {
+        "Text": "ambarcaţiunile mici pot să staţioneze oriunde in interiorul camerei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ambarcaţiunile mici nu au voie să ecluzeze",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ambarcaţiunile mici trebuie să păstreze suficientă distanţă faţă de alte nave",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Conducerea de motociclete nautice (skyjet) este supusă următoarelor limite:",
+    "Answers": [
+      {
+        "Text": "conducătorul şi însoţitorul trebuie să poarte veste de salvare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "conducătorul şi însoţitorul nu trebuie să poarte veste de salvare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "conducătorul şi însoţitorul nu trebuie să poarte veste de salvare, dacă sunt buni înotători",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Mişcarea transversală a unei nave în jurul unei axe longitudinale reprezintă:",
+    "Answers": [
+      {
+        "Text": "tangaj",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ruliu",
+        "IsCorrect": true
+      },
+      {
+        "Text": "mişcare ascensională",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "\"Mărimea’’ forţei ce acţionează asupra timonei este influenţată de?",
+    "Answers": [
+      {
+        "Text": "puterea motorului, de câtă porţiune din elice este în apă, de tipul şi pasul elicei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "numai de puterea motorului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "numai de pasul elicei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Instalaţia de guvernare se compune din?",
+    "Answers": [
+      {
+        "Text": "timonă şi transmisie",
+        "IsCorrect": false
+      },
+      {
+        "Text": "timona sau manipulatorul electric; servomotorul la navele mari; sistemul de transmisie timonă-servomotor-cârmă; cârma propiu-zisă",
+        "IsCorrect": true
+      },
+      {
+        "Text": "timona",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Elicea are pas stânga dacă:",
+    "Answers": [
+      {
+        "Text": "la mersul înainte al ambarcaţiunii elicea se învârte la dreapta",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la mersul înapoi al ambarcaţiunii elicea se învârte la dreapta",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la mersul înainte al ambarcaţiunii elicea se învârte la stânga",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În cazul acostării cu bordul:",
+    "Answers": [
+      {
+        "Text": "nava se apropie de cheu sub un unghi ascuţit, pentru a atenua impactul provei cu cheul",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ambarcaţiunea se apropie de cheu pe o direcţie perpendiculară pe acesta",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ambarcaţiunea se apropie de cheu din orice pozitie",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Reuşita ancorării depinde şi de folosirea corectă a lungimii parâmei/lanţului de ancorare şi anume?",
+    "Answers": [
+      {
+        "Text": "nu sunt stabilite reguli speciale privind lungimea lanţului/parâmei de ancorare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lungimea parâmei/lanţului de ancorare nu influenţează siguranţa ancorării",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lungimea parâmei/lanţului la ancoră trebuie să fie de 3-5 ori adâncimea",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În zona de ecluzare:",
+    "Answers": [
+      {
+        "Text": "ancorele trebuie să fie ridicate la post şi asigurate",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ancorele pot fi folosite în ecluză",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu sunt prevăzute reguli speciale pentru acest caz",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "O ambarcaţiune este dificil de controlat în timpul navigaţiei dacă este?",
+    "Answers": [
+      {
+        "Text": "echipată cu motoare de puteri mai mari decât cea pentru care a fost proiectată (,,overpower’’)",
+        "IsCorrect": true
+      },
+      {
+        "Text": "este echipată cu motoare cu putere asemănătoare cu cea pentru care a fost proiectată",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu este importantă puterea motorului",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă barca devine instabilă?",
+    "Answers": [
+      {
+        "Text": "măriţi viteza pentru a stabiliza deplasarea",
+        "IsCorrect": false
+      },
+      {
+        "Text": "reduceţi viteza în mod gradat, nu acceleraţi, opriţi testul de navigaţie în viteza pe apă, apoi verificaţi barca şi echipamentul, iar în cazul în care consideraţi că este nevoie, contactaţi-vă dealer-ul sau un expert pentru a vă ajuta",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu este nevoie de nici o verificare, continuaţi mersul la aceeaşi parametri, deoarece fenomenul de instabilitate dispare după scurt timp",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Pentru alegerea elicei care să corespundă exigenţelor dvs. trebuie să ţineţi cont de următoarele elemente?",
+    "Answers": [
+      {
+        "Text": "tonajul bărcii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "experienţa conducătorului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "viteza probabilă a bărcii, care este cea mai bună elice pentru designul şi viteza bărcii dumneavoastră; modul în care doriţi să folosiţi barca; testarea pasului elicei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Înmulţind rotaţiile pe minut (RPM) cu pasul elicei, se obţine:",
+    "Answers": [
+      {
+        "Text": "valoarea rezistenţei elicei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "spaţiul parcurs de ambarcaţiune într-un minut",
+        "IsCorrect": true
+      },
+      {
+        "Text": "numărul de pale de elice",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Locul de ancorare trebuie să îndeplinească o serie de condiţii:",
+    "Answers": [
+      {
+        "Text": "nu sunt impuse condiţii speciale pentru ancorare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "este interzisă ancorarea în afara radelor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să permită plecarea rapidă a navei de la ancoră, în orice condiţii, ziua sau noaptea",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În zona de ecluzare este interzisă depăşirea, navele au voie să treacă pe lângă alte nave care aşteaptă în ecluză:",
+    "Answers": [
+      {
+        "Text": "atunci când conducătorul sau pasagerii consideră necesar",
+        "IsCorrect": false
+      },
+      {
+        "Text": "numai atunci când ambarcaţiunile trebuie să fie ecluzate înainte sau pentru a se poziţiona în spaţiile libere aflate la îndemână",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ori de câte ori conducătorul consideră că este o manevră sigură",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Înainte de pătrunderea în ecluză?",
+    "Answers": [
+      {
+        "Text": "nu trebuie făcute pregătiri speciale la bordul ambarcaţiunilor",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la bordul ambarcaţiunilor parâmele trebuie ţinute din scurt si componentele echipamentului trebuie să nu depăşească limitele navei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "conducătorul nu are nici o obligaţie",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În timpul ecluzării, în camerele ecluzelor?",
+    "Answers": [
+      {
+        "Text": "este permis să se lase pasagerii să urce sau să coboare de la bord",
+        "IsCorrect": false
+      },
+      {
+        "Text": "este interzis să se lase pasagerii să urce sau să coboare fără permisiunea personalului ecluzei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu este prevăzută expres această regulă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Conducerea de skyjet este supusă următoarelor limite?",
+    "Answers": [
+      {
+        "Text": "pe skyjet trebuie să se aplice numere de înmatriculare vizibile acordate de căpitănie",
+        "IsCorrect": true
+      },
+      {
+        "Text": "pe skyjet nu trebuie să se aplice numere de înmatriculare, deoarece nu este loc",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu sunt reguli prevăzute expres",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Conducătorul ambarcațiunii:",
+    "Answers": [
+      {
+        "Text": "poate să dea drumul timonei la orice viteză a bărcii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "poate să balanseze timona la o viteză mare a bărcii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu ar trebui să dea drumul timonei la nici un fel de viteză, din cauza forţelor turbionare prezente în sistemul de guvernare, barca ar putea să înceapă să se rotească rapid şi să devină instabilă",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Un motor înclinat în sus?",
+    "Answers": [
+      {
+        "Text": "are o abilitate de frânare mai redusă decât unul înclinat în jos şi este nevoie de mai mult spaţiu pentru a opri barca",
+        "IsCorrect": true
+      },
+      {
+        "Text": "are o abilitate de a opri mai uşor barca",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu are nici un fel de influenţă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Schimbarea direcţiei de deplasare a ambarcaţiunii se realizează prin?",
+    "Answers": [
+      {
+        "Text": "navigarea în ape cu salinități diferite",
+        "IsCorrect": false
+      },
+      {
+        "Text": "punerea cârmei într-un bord sau altul şi este determinată de forţa curentului care apasă asupra penei cârmei, sau orientarea propulsorului în cazul propulsiei în ,,Z’’",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ambarcaţiunea schimbă direcţia când este influenţată de curent şi vânt",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Prin rotaţia elicei se generează efect de?",
+    "Answers": [
+      {
+        "Text": "propulsie şi guvernare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "propulsie",
+        "IsCorrect": false
+      },
+      {
+        "Text": "guvernare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă înclinaţi motorul în sus la viteze mari?",
+    "Answers": [
+      {
+        "Text": "nu se observa nici un efect",
+        "IsCorrect": false
+      },
+      {
+        "Text": "forţele turbionare vor acţiona brusc şi pot cauza pierderea controlului ambarcaţiunii",
+        "IsCorrect": true
+      },
+      {
+        "Text": "barca se înclină în bordul pasului elicei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La trecerea prin avanporturi de ecluză şi la intrarea în ecluze, navele trebuie:",
+    "Answers": [
+      {
+        "Text": "să-şi micşoreze viteza, pentru a fi posibilă în orice condiţii o oprire sigură cu ajutorul cablurilor de oţel, parâmelor şi a altor măsuri potrivite, astfel încât să fie exclusă o coliziune cu porţile ecluzei sau cu dispozitivele de protecţie, ca şi cu alte nave care au corpuri flotante",
+        "IsCorrect": true
+      },
+      {
+        "Text": "să execute manevra de intrare cu viteza cea mai mare pentru reducerea timpului de staţionare în ecluză",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu sunt impuse reguli speciale",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ordinea ecluzării este?",
+    "Answers": [
+      {
+        "Text": "nu există reguli privind ordinea ecluzării",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navele administraţiei; navele care sunt plecate pentru îndeplinirea unor misiuni excepţionale; navele avariate grav au prioritate la ecluzare in faţa celorlalte, fără a sta la rând; navele de pompieri şi de salvare aflate în drum spre locul accidentului; celelalte nave",
+        "IsCorrect": true
+      },
+      {
+        "Text": "operatorul ecluzei dispune cum crede de cuviinţă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "O persoană care nu este pregătită pentru operarea unei bărci de mare viteză?",
+    "Answers": [
+      {
+        "Text": "poate încerca să conducă, crescând succesiv viteza fără instruire din partea unor conducători mai experimentaţi",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu este nici o problemă, deoarece nu există riscuri",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu ar trebui să încerce să conducă fără o instruire prealabilă şi o aplicaţie practică cu un conducător experimentat sau un dealer, pierderea controlului ar putea avea ca rezultat accidente grave",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Înainte de a părăsi locul de acostare:",
+    "Answers": [
+      {
+        "Text": "nu se fac nici un fel de verificări",
+        "IsCorrect": false
+      },
+      {
+        "Text": "asiguraţi-vă că toate mecanismele folosite pentru a ataşa motorul de barcă sunt bine strânse şi la locul lor, procedaţi la fel pentru toată aparatura din sistemul de guvernare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu sunt reguli prevăzute expres",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce fenomene hidrologice şi meteorologice pot influenţa manevra navei?",
+    "Answers": [
+      {
+        "Text": "vântul, valurile, curentul, adâncimi mari",
+        "IsCorrect": false
+      },
+      {
+        "Text": "vântul, valurile, curentul",
+        "IsCorrect": false
+      },
+      {
+        "Text": "vântul, valurile, curentul, adâncimi mici",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În cazul în care ambarcaţiunea dvs. este utilizată în regim de mare viteză în mod constant, este nevoie:",
+    "Answers": [
+      {
+        "Text": "să alimentaţi mai des barca cu combustibil",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să schimbaţi uleiul mai des",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să fie verificate instalaţiile de elevare a motorului, de guvernare şi de cuplare-accelerare, precum şi elicea/elicele, la intervale mai scurte de timp",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În ce constă manevrabilitatea bărcii?",
+    "Answers": [
+      {
+        "Text": "manevrabilitatea constă în capacitatea bărcii de a-şi menţine direcţia de înaintare sau de a schimba această direcţie cu ajutorul cârmei şi elicei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "manevrabilitatea consta in incapacitatea bărcii de a-si menţine direcţia de înaintare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu este o definiţie prevăzuta pentru aceasta caracteristica a ambarcaţiunii",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Elicea are pas dreapta dacă:",
+    "Answers": [
+      {
+        "Text": "la mersul înainte al ambarcaţiunii elicea se învârte la dreapta",
+        "IsCorrect": true
+      },
+      {
+        "Text": "la mersul înapoi al ambarcaţiunii elicea se învârte la dreapta",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la mersul înainte al ambarcaţiunii elicea se învârte la stânga",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Manevrele de acostare și plecare:",
+    "Answers": [
+      {
+        "Text": "sunt manevre simple, care nu solicită cunoştinţe de specialitate",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se fac numai cu piloţi specializaţi",
+        "IsCorrect": false
+      },
+      {
+        "Text": "prezintă grad sporit de dificultate, solicitând cunoaşterea calităţilor manevriere ale navei și deprinderi marinăreşti",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Reuşita ancorării depinde și de folosirea corectă a lungimii parâmei/lanţului de ancorare și anume:",
+    "Answers": [
+      {
+        "Text": "lungimea parâmei/lanţului la ancoră trebuie să fie de 3-5 ori adâncimea măsurată",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu sunt stabilite reguli speciale privind lungimea lanţului/parâmei de ancorare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lungimea parâmei/lanţului de ancorare nu influenţează siguranţa ancorării",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În zona de ecluze navele care sunt dotate cu o instalaţie de emisie–recepţie?",
+    "Answers": [
+      {
+        "Text": "închid aparatul VHF",
+        "IsCorrect": false
+      },
+      {
+        "Text": "folosesc canalul pe care îl consideră util",
+        "IsCorrect": false
+      },
+      {
+        "Text": "trebuie să aibă comutat la recepţie canalul ecluzei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "În timpul ecluzării, în camerele ecluzelor:",
+    "Answers": [
+      {
+        "Text": "este permis să se folosească după legarea navei și până la permiterea ieşirii atât propulsia mecanică, cât și instalaţia de guvernare prova",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu este prevăzută expres această regulă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "este interzis să se folosească după legarea navei și până la permiterea ieşirii atât propulsia mecanică, cât și instalaţia de guvernare prova; din motive de siguranţă acest lucru este permis numai pentru fracţiuni scurte de timp",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Motorul ataşabil al unei ambarcaţiuni se montează?",
+    "Answers": [
+      {
+        "Text": "având placa anticavitație la nivelul chilei ambarcaţiunii",
+        "IsCorrect": true
+      },
+      {
+        "Text": "având placa anticavitație deasupra nivelului chilei ambarcaţiunii, la decalajul maxim permis de dispozitivul de fixare a motorului și dimensiunile oglinzii bărcii",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se poate monta oricum, deoarece nu sunt influenţaţi parametrii de mişcare ai bărcii",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În cazul în care ambarcaţiunea dvs. este utilizată în regim de mare viteză în mod constant, este nevoie:",
+    "Answers": [
+      {
+        "Text": "să alimentaţi mai des barca cu combustibil",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să schimbaţi uleiul mai des",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să fie verificate instalaţiile de elevare a motorului, de guvernare şi de cuplare-accelerare, precum şi elicea/elicele, la intervale mai scurte de timp",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "La deplasarea înapoi a bărcii, efectul cârmei determină?",
+    "Answers": [
+      {
+        "Text": "nu are nici o influenţă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orientarea provei în bordul în care s-a pus cârma şi a pupei în sensul opus cârmei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orientarea provei în bordul opus celui în care s-a pus cârma şi a pupei în sensul punerii cârmei",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "La marş înapoi, pupa este abătută:",
+    "Answers": [
+      {
+        "Text": "în bordul opus pasului elicei, iar prova va gira în bordul pasului elicei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "spre stânga",
+        "IsCorrect": false
+      },
+      {
+        "Text": "spre dreapta",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Acostarea ambarcaţiunii la o navă se face în următoarele condiţii?",
+    "Answers": [
+      {
+        "Text": "nava la care urmează a se acosta reduce viteza și păstrează direcţia fără abatere, iar ambarcaţiunea va acosta totdeauna în bordul de sub vânt şi cât mai spre centrul navei",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu contează condiţiile",
+        "IsCorrect": false
+      },
+      {
+        "Text": "aceasta manevră este interzisă",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La întâlniri, conducătorul ambarcaţiunii?",
+    "Answers": [
+      {
+        "Text": "păstrează direcţia şi viteza de deplasare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "va reduce viteza în întâmpinarea valurilor provocate de nava ce vine din sens opus şi va adopta o viteză corespunzătoare evitării răsturnării",
+        "IsCorrect": true
+      },
+      {
+        "Text": "se vor evita constant întâlnirile",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În camerele ecluzei?",
+    "Answers": [
+      {
+        "Text": "navele trebuie să se menţină în interiorul limitelor, în cazul în care pe pereţii ecluzelor sunt marcate graniţe/limite",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navele se pot lega oriunde consideră",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu este nevoie de legarea navelor în timpul ecluzării",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Schiul nautic pe căile navigabile interioare este permis?",
+    "Answers": [
+      {
+        "Text": "numai în zonele stabilite şi marcate, acest lucru fiind valabil şi pentru activităţi în care persoanele sunt trase de o ambarcaţiune fără schiuri nautice sau pe altfel de obiecte",
+        "IsCorrect": true
+      },
+      {
+        "Text": "fără restricţie de zonă, deoarece ambarcaţiunile au o viteză mare",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu sunt reguli prevăzute special pentru schiul nautic",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când motorul este înclinat în jos la capătul cursei?",
+    "Answers": [
+      {
+        "Text": "barca glisează orizontal pe apă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pupa bărcii va intra mai adânc în apă, la ambarcaţiunile mai mici se observă apuparea",
+        "IsCorrect": true
+      },
+      {
+        "Text": "înclinarea motorului/cizmei nu influenţează alura deplasării",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Pasul elicei reprezintă?",
+    "Answers": [
+      {
+        "Text": "mărimea diametrului butucului",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lungimea palei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "spaţiul parcurs de marginea exterioară a elicei, în mişcarea de translaţie efectuată de-a lungul axei de rotaţie în timpul unei rotaţii complete",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Guvernarea clasică poate fi ajutată prin instalarea în corpul ambarcaţiunii de?",
+    "Answers": [
+      {
+        "Text": "propulsoare prova şi pupa (bowtruster si sterntruster)",
+        "IsCorrect": true
+      },
+      {
+        "Text": "reducerea suprafeţei penei cârmei",
+        "IsCorrect": false
+      },
+      {
+        "Text": "micşorarea unghiului de rotire a cârmei",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Conducerea de skyjet pe căile navigabile interioare?",
+    "Answers": [
+      {
+        "Text": "este interzisă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "este permisă numai în porţiunile stabilite şi marcate",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu sunt reguli expres enunţate",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă barca pe care aţi cumpărat-o nu are placa de capacitate?",
+    "Answers": [
+      {
+        "Text": "nu este nici o problemă, parametrii limită de exploatare pot fi apreciaţi",
+        "IsCorrect": false
+      },
+      {
+        "Text": "contactaţi dealer-ul dumneavoastră sau producătorul bărcii, pentru a intra în posesia informaţiilor garantate",
+        "IsCorrect": true
+      },
+      {
+        "Text": "calculaţi dumneavoastră datele de care aveţi nevoie",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Înainte de a părăsi locul de acostare?",
+    "Answers": [
+      {
+        "Text": "verificaţi funcţionarea butonului pentru oprire de urgenţă, daţi drumul motorului, trageţi saula şi vedeţi dacă motorul se opreşte; asiguraţi-vă că saula este bine legată de hainele sau vesta dumneavoastră de salvare",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu se fac nici un fel de verificări",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu trebuie legată saula de haine sau vesta de salvare",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă pupa intră adânc în apă, datorită înclinării motorului la viteze mari?",
+    "Answers": [
+      {
+        "Text": "barca ar putea să înceapă să se rotească rapid şi să se arunce pasagerii peste bord",
+        "IsCorrect": true
+      },
+      {
+        "Text": "barca îşi măreşte stabilitatea de drum",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu se observă nici un efect",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

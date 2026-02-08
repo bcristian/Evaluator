@@ -1,0 +1,2416 @@
+[
+  {
+    "Statement": "Căror nave li se aplică prevederile Colreg-1972?",
+    "Answers": [
+      {
+        "Text": "tuturor navelor care navigă în apele internaţionale.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "tuturor navelor care navigă în rade, strâmtori şi marea liberă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "tuturor navelor aflate în largul mării ori pe toate apele învecinate accesibile navelor maritime.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Tuturor navelor aflate în largul mării ori pe toate apele învecinate accesibile navelor maritime li se aplică prevederile:",
+    "Answers": [
+      {
+        "Text": "COLREG-1972.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "R.N.D.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Codului ISPS.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Dispoziţiile Regulamentului împiedică aplicarea prescripţiilor speciale stabilite de către autoritatea competentă referitoare la navigaţia în rade, porturi, pe fluvii, lacuri sau căi de navigaţie interioară accesibile navelor maritime?",
+    "Answers": [
+      {
+        "Text": "da.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nu este precizat.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum influenţează prevederile Regulamentului prescripţiile speciale referitoare la navigaţia în rade, porturi, pe fluvii, lacuri sau căi de navigaţie interioară accesibile navelor maritime?",
+    "Answers": [
+      {
+        "Text": "dispoziţiile Regulamentului nu trebuie să împiedice aplicarea prescripţiilor speciale stabilite de către autoritatea competentă, dar asemenea prescripţii speciale trebuie să fie cât mai conforme cu prezentele reguli.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "autoritatea competentă nu este obligată să ţină seama de prescripţiile Regulamentului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "în toate situaţiile se vor aplica prevederile Regulamentului.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Guvernul unui stat poate stabili prescripţiile speciale cu privire la numărul luminilor de poziţie, a semnalelor luminoase, prescripţii care să fie astfel încât să facă imposibilă confundarea lor cu Regulamentul?",
+    "Answers": [
+      {
+        "Text": "nu.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu este precizat.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Dispoziţiile Regulamentului scutesc nava, comandantul sau armatorul de consecinţele unei neglijenţe oarecare în ceea ce priveşte aplicarea Regulamentului sau în ceea ce priveşte luarea tuturor măsurilor cerute de o bună practică marinărească?",
+    "Answers": [
+      {
+        "Text": "nu este precizat.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "da.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Când este exonerată o navă, comanantul sau armatorul de consecinţele unei neglijenţe sau de neluarea tuturor măsurilor cerute de o bună practică marinărească?",
+    "Answers": [
+      {
+        "Text": "aplicarea regulilor scuteşte nava, comandantul sau armatorul de orice răspundere.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "conformarea întocmai la prevederile regulii \"navă privilegiată\" scuteşte nava, comandantul sau armatorul de orice răspundere.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dispoziţiile Regulamentului nu scutesc nava, comandantul sau armatorul de consecinţele unei neglijenţe oarecare în ceea ce priveşte aplicarea Regulamentului sau în ceea ce priveşte luarea tuturor măsurilor cerute de o bună practică marinărească.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Când există riscul unei coliziuni, precum şi în toate împrejurările deosebite sunt permise:",
+    "Answers": [
+      {
+        "Text": "abaterea de la prevederile Regulamentului.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "abateri de la prevederile autorităţilor portuare.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "abateri de la prevederile legilor specifice.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când sunt permise abateri de la prevederile Regulamentului?",
+    "Answers": [
+      {
+        "Text": "în apele naţionale, rade şi în toate apele învecinate accesibile navelor maritime.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "când există pericol de navigaţie, riscul unei coliziuni, precum şi în toate împrejurările deosebite.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "indiferent de situaţie, nu este permisă abaterea de la prevederile Regulamentului.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia\"navă\", conform Regulamentului?",
+    "Answers": [
+      {
+        "Text": "orice construcţie sau aparat, de orice natură, capabil să plutească pe apă fără propulsie.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orice construcţie sau orice aparat, de orice natură ar fi, inclusiv construcţiile fără pescaj şi hidro avioane, folosite sau susceptibile de a fi folosite ca mijloc de transport pe apă.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "orice corp plutitor cu orice mijloc de propulsie.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin \"navă cu propulsie mecanică\"?",
+    "Answers": [
+      {
+        "Text": "orice navă pusă în mişcare de către o maşină.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navele care folosesc ca mijloc de propulsie un motor Diesel.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "toate navele care se pot deplasa pe apă, cu excepţia navelor cu vele.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "O navă care navigă cu vele, chiar dacă are o maşină proprie, cu condiţia ca aceasta să nu fie folosită, reprezintă:",
+    "Answers": [
+      {
+        "Text": "o navă cu vele.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o navă cu propulsie mecanică, care foloseşte şi velele.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o navă care foloseşte ca mijloc de propulsie forţa vântului.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia \"navă cu vele\"?",
+    "Answers": [
+      {
+        "Text": "o navă care foloseşte ca mijloc de propulsie forţa vântului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o navă cu propulsie mecanică, care foloseşte şi vele.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o navă care navigă cu vele, chiar dacă are o maşină proprie, cu condiţia ca aceasta să nu fie folosită.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "O navă care din cauza unei împrejurări excepţionale nu este în măsură să manevreze şi deci, nu poate să se îndepărteze din drumul altei nave trebuie considerată:",
+    "Answers": [
+      {
+        "Text": "nava nu este stăpână pe manevra sa.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navă cu capacitate de manevră redusă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navă stânjenită de pescajul său.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia \"navă cu capacitate de manevră redusă\"?",
+    "Answers": [
+      {
+        "Text": "o navă a cărei capacitate de manevră conform Regulamentului este limitată prin natura lucrărilor sale şi care, în consecinţă, nu se poate",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o navă cu avarii accidentale la cârmă şi/sau maşină, în curs de remediere.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o navă care nu se poate abate din drumul său, datorită unor pericole de navigaţie.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "O navă cu propulsie mecanică, care din cauza pescajului şi a adâncimii apei sub chilă poate să-şi modifice cu greu drumul, se consideră :",
+    "Answers": [
+      {
+        "Text": "navă stânjenită de pescajul său.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navă cu lungime mai mare de 200 m",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navă cu capacitate de manevră redusă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "O navă care nu este nici la ancoră, nici legată la cheu, nici eşuată se consideră:",
+    "Answers": [
+      {
+        "Text": "navă \"în marş\".",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navă în derivă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navă care ţine la capă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când una dintre nave poate fi observată vizual de către cealaltă navă, se consideră:",
+    "Answers": [
+      {
+        "Text": "navă în siguranţă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nave aflate în vedere.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nave în marş.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când două nave se consideră în vedere?",
+    "Answers": [
+      {
+        "Text": "când se observă vizual reciproc.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "chiar dacă numai una dintre ele poate fi observată vizual de către cealaltă.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "când navele se află în limita de observare cu radarul.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să se asigure veghea la bordul navei?",
+    "Answers": [
+      {
+        "Text": "trebuie să se asigure în permanenţă o veghe vizuală şi auditivă corespunzătoare, folosind în acelaşi timp toate mijloacele disponibile, potrivit cu împrejurările şi condiţiile existente, în aşa fel încât să",
+        "IsCorrect": true
+      },
+      {
+        "Text": "trebuie să se asigure în permanenţă o veghe vizuală pentru evitarea unei situaţii periculoase.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "în condiţii de vizibilitate redusă, se va organiza o veghe corespunzătoare, pentru a aprecia existenţa unui pericol de coliziune.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Pentru a se putea acţiona corect şi eficace pentru prevenirea unei coliziuni şi pentru ca nava să poată fi oprită pe o distanţă corespunzătoare împrejurărilor şi condiţiilor, se impune menţiunea de a naviga cu:",
+    "Answers": [
+      {
+        "Text": "viteză maximă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "viteză minimă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "viteză de siguranţă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care sunt factorii care trebuie luaţi în consideraţie pentru determinarea \"vitezei de siguranţă\"?",
+    "Answers": [
+      {
+        "Text": "lungimea navei, calităţile nautice ale navei, puterea maşinii şi vizibilitatea.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pregătirea echipajului, condiţiile de navigaţie, vizibilitatea.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "vizibilitatea, densitatea traficului, capacitatea de manevră a navei, noaptea-existenţa unui fundal luminos, starea vântului şi a mării, pescajul navei.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Orice navă trebuie să folosească toate mijloacele disponibile corespunzătoare împrejurărilor şi condiţiilor externe pentru a stabili dacă există:",
+    "Answers": [
+      {
+        "Text": "un pericol de eşuare.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un pericol iminent.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un pericol de coliziune.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce mijloace trebuie să folosească o navă pentru a stabili dacă există pericolul de coliziune?",
+    "Answers": [
+      {
+        "Text": "orice navă trebuie să folosească toate mijloacele disponibile corespunzătoare împrejurărilor şi condiţiilor extrene, pentru a stabili dacă există un pericol de coliziune.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "orice navă trebuie să folosească toate mijloacele vizuale, pentru a stabili dacă există pericolul de coliziune.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orice navă trebuie să folosească radarul, pentru a stabili dacă există pericolul de coliziune.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când relevmentul compas la o navă care se apropie nu variază în mod apreciabil, se consideră :",
+    "Answers": [
+      {
+        "Text": "nave în vedere.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pericol de coliziune.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nave cu drumuri opuse.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când se consideră că există pericol de coliziune?",
+    "Answers": [
+      {
+        "Text": "când navele navigă în drumuri opuse.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "când relevmentul compas la o navă care se apropie nu variază în mod apreciabil.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "când viteza de apropiere între cele două nave este foarte mare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să se execute o manevră pentru evitarea unei coliziuni?",
+    "Answers": [
+      {
+        "Text": "din timp, cu schimbări mici de drum, pentru a nu devia prea mult de la drumul navei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "hotărât, din timp şi conform cu buna practică marinărească.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "hotărât, cu variaţii de viteză, pentru evitarea pericolului.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să se execute schimbările de drum şi/sau de viteză pentru evitarea ueni coliziuni?",
+    "Answers": [
+      {
+        "Text": "schimbări mici de drum şi/sau de viteză, pentru a nu devia prea mult de la drumul navei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "schimbări destul de mari de viteză şi mici de drum, pentru a nu devia prea mult de la drumul navei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dacă împrejurările permit, să fie destul de mare, pentru a putea fi percepută imediat de orice navă care o observă vizual sau cu radarul.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Dacă pentru evitarea unei coliziuni este suficientă numai schimbarea de drum, cum trebuie să fie executată?",
+    "Answers": [
+      {
+        "Text": "manevra se va face cu mult timp înainte, să fie substanţială şi să nu conducă la o altă situaţie de foarte mare apropiere.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "se vor executa schimbări mari de drum, suficiente pentru evitarea coliziunii.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se va efectua o schimbare de drum suficientă pentru ca să se elimine orice pericol de coliziune.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Manevra de evitare între nave se va efectua astfel încât să permită trecerea la:",
+    "Answers": [
+      {
+        "Text": "o distanţă maximă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o distanţă de siguranţă.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o distanţă minimă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Până când se controlează eficacitatea unei manevre de evitare?",
+    "Answers": [
+      {
+        "Text": "până când navele vor fi la travers una faţă de cealaltă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "până când nava cealaltă va fi într-un unghi de 45° tribord/babord.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "până când nava cealaltă a fost complet şi definitiv depăşită.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care este manevra cea mai indicată pentru a se câştiga mai mult timp pentru aprecierea situaţiei, atunci când trebuie să se evite o coliziune?",
+    "Answers": [
+      {
+        "Text": "reducerea vitezei sau opirea completă, stopând maşinile ori punându-le înapoi.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "stoparea navei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "reducerea la minimum de viteză, până la limita guvernării.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se navigă în şenal sau cale navigabilă îngustă?",
+    "Answers": [
+      {
+        "Text": "pe mijlocul şenalului sau căii de acces.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cât mai aproape posibil de marginea exterioară din dreapta şenalului sau căii de acces respective, atunci când aceasta se poate face.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "se va naviga întotdeauna cât mai aproape posibil de marginea exterioară a şenalului sau căii de acces, pentru asigurarea unei veghe corespunzătoare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnale pot da navele care navigă prin şenal şi se îndoiesc de intenţiile navei care traversează şenalul?",
+    "Answers": [
+      {
+        "Text": "un sunet lung şi două scurte.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un semnal de avertizare compus din cinci sunete scurte.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un semnal lung de atenţionare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce măsuri de siguranţă trebuie să ia o navă care se apropie de un cot aflat într-un şenal sau o cale de acces îngustă?",
+    "Answers": [
+      {
+        "Text": "să emită cinci sunete scurte (de avertizare)",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să emită un semnal scurt şi să navige pe partea dreaptă a şenalului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să emită un semnal lung şi să navige cu prudenţă şi vigilenţă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Schemelor de separare a traficului li se aplică reglementările referitoare la schemele de separare a traficului, adoptate de:",
+    "Answers": [
+      {
+        "Text": "guvernele ţărilor unde se află schemele.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Organizaţie.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Organizaţie şi guvernele anumitor ţări.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Nava trebuie să navige pe banda de navigaţie corespunzătoare în direcţia generală a traficului şi să se îndepărteze,în măsura posibilului, de linia sau zona de separare a sensurilor de trafic atunci când trebuie să navige:",
+    "Answers": [
+      {
+        "Text": "în exteriorul unei scheme de separare a traficului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "în interiorul unei scheme de separare a traficului.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "în interiorul unei benzi de separaţie.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să se angajeze o navă pentru intrarea sau ieşirea dintr-o schemă de separare a traficului?",
+    "Answers": [
+      {
+        "Text": "sub un unghi drept faţă de direcţia generală a traficului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ca regulă generală pe la una din extremităţi,dar atunci când se angajează să intre sau să iasă,din orice parte,să facă manevra sub unghi cât mai mic faţă de direcţia traficului.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "prin zona de separare a traficului,dar cu aprobarea autorităţilor care supraveghează navigaţia în schema de separare a traficului.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să întretaie o navă benzile de separaţie, când este obligată să o facă?",
+    "Answers": [
+      {
+        "Text": "sub un unghi cât mai mic faţă de direcţia generală a traficului şi cu viteza redusă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sub un unghi cât mai mic faţă de direcţia generală a traficului şi cu viteză maximă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pe cât posibil perpendicular faţă de direcţia generală a traficului.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Zonele de navigaţie costieră pot fi folosite pentru traficul costier?",
+    "Answers": [
+      {
+        "Text": "în mod normal nu trebuie folosite pentru traficul direct, cu excepţia navelor mai mici de 20 m lungime şi a navelor cu vele.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "pot fi folosite de toate navele aparţinând ţării riverane.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pot fi folosite de navele cu capacitate de manevră redusă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când poate o navă să pătrundă într-o zonă de separare sau să taie o linie de separare?",
+    "Answers": [
+      {
+        "Text": "când condiţiile hidrometeorologice fac dificilă navigaţia în sensul general al traficului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "în caz de urgenţă, pentru evitarea unui pericol imediat, sau pentru a pescui într-o zonă de separare.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "zona de separare nu va fi traversată în nici o situaţie.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să se navige în zone vecine cu extremităţile unei zone de separare a traficului?",
+    "Answers": [
+      {
+        "Text": "se va naviga în direcţia generală a traficului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "se vor semnaliza sonor şi vizual intenţiile de schimbare de drum.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu atenţie deosebită.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Este permisă ancorarea în schemele de separare a traficului?",
+    "Answers": [
+      {
+        "Text": "se va evita în măsura maximă a posibilului ancorarea atât în schema de separare, cât şi în zonele învecinate acesteia.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "se poate ancora, dar se vor da toate semnalele prevăzute în prezentele reguli.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nu se poate ancora în nici o situaţie.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să navige navele care nu folosesc o schemă de separare a traficului?",
+    "Answers": [
+      {
+        "Text": "să folosească zonele de navigaţie costieră.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să se îndepărteze cât mai mult de zona de separare a traficului.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "să navige în apropiere, dar să nu intersecteze linia de separare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care sunt navele exceptate de la prevederile regulii referitoare la navigaţie în schemele de separare a traficului?",
+    "Answers": [
+      {
+        "Text": "navele cu capacitate de manevră redusă, angajate în manevra de menţinere a siguranţei navigaţiei.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navele cu defecţiuni la motorul principal.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navele cu avarii la cârmă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce navă trebuie să se abată din drumul navei ajunsă din urmă?",
+    "Answers": [
+      {
+        "Text": "nava care se află la o distanţă de 200 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nava care se află la o distanţă de 100 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nava care ajunge din urmă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cum se comportă o navă care ajunge din urmă (depăşeşte) o altă navă?",
+    "Answers": [
+      {
+        "Text": "nava care ajunge din urmă o altă navă va avea prioritate.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nava ajunsă din urmă va manevra astfel încât să-i permită navei care o depăşeşte deplasarea.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orice navă care ajunge din urmă o altă navă trebuie să se abată din drumul navei ajunsă din urmă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Când se consideră că o navă ajunge din urmă altă navă?",
+    "Answers": [
+      {
+        "Text": "când vine dintr-o direcţie mai mare de 22°5 dinapoia traversului celeilalte nave, astfel încât noaptea se vede numai",
+        "IsCorrect": true
+      },
+      {
+        "Text": "când vede lumina din pupa şi luminile din bordurile navei ajunsă din urmă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "când vede lumina catargului pupa şi luminile din pupa.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să manevreze o navă care nu poate stabili cu siguranţă că ajunge din urmă altă navă?",
+    "Answers": [
+      {
+        "Text": "să se considere navă privilegiată şi şă-şi menţină viteza şi drumul.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să se considere navă care ajunge din urmă şi să manevreze în consecinţă.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "să dea semnalele corespunzătoare şi după edificare să procedeze conform situaţiei.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să manevreze două nave cu vele care se apropie una de alta, astfel încât există pericolul de coliziune şi primesc vântul din borduri diferite?",
+    "Answers": [
+      {
+        "Text": "nava care primeşte vântul din babord trebuie să se abată din drumul navei care primeşte vântul din tribord.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nava care primeşte vântul din tribord trebuie să se abată din drumul navei care primeşte vântul din babord.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nava care primeşte vântul din pupa trebuie să se abată din drumul navei care primeşte vântul din tribord.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cum trebuie să manevreze două nave cu vele care se apropie una de alta, astfel încât există pericolul de coliziune şi primesc vântul din acelaşi bord?",
+    "Answers": [
+      {
+        "Text": "nava care o vede pe cealaltă prin babord trebuie să se abată din drumul celeilalte nave.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nava care este în vânt se va abate din drumul navei de sub vânt.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nava care o vede pe cealaltă prin tribord trebuie să se abată din drumul celeilalte nave.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este manevra unei nave care nu este obligată să se abată din drumul altei nave?",
+    "Answers": [
+      {
+        "Text": "trebuie să-şi menţină drumul şi viteza.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "va schimba numai drumul, pentru a evita o situaţie periculoasă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "va reduce viteza sau va stopa, pentru a nu crea situaţii periculoase.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când trebuie să manevreze nava care nu este obligată să se abată din drumul altei nave?",
+    "Answers": [
+      {
+        "Text": "indiferent de situaţie, nu se va abate niciodată din drumul altei nave.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "imediat ce i se pare evident faptul că nava care are obligaţia de a se abate din drumul său nu face manevra.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "când în urma observării relevmentului şi-a dat seama că există pericolul de coliziune.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Din drumul căror nave trebuie să se abată o navă cu propulsie mecanică în marş?",
+    "Answers": [
+      {
+        "Text": "navelor cu vele.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "velierelor care navigă numai cu maşina.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "velierelor care poartă la prova un semn conic negru, cu vârful în jos.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Din drumul căror nave trebuie să se abată o navă cu vele în marş?",
+    "Answers": [
+      {
+        "Text": "navelor cu propulsie mecanică cu viteză mică.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navelor care nu sunt stăpâne pe manevra lor.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navelor petroliere sau navelor care transportă gaze lichefiate.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Din drumul căror nave trebuie să se abată o navă cu vele în marş?",
+    "Answers": [
+      {
+        "Text": "navelor frigorifice cu viteză mare.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navelor petroliere.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navelor cu capacitate de manevră redusă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Din drumul căror nave trebuie să se abată o navă cu vele în marş?",
+    "Answers": [
+      {
+        "Text": "navelor în curs de pescuit.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "traulelor aflate în marş spre zona de pescuit.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navelor colectoare de peşte aflate în marş.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Din drumul căror nave trebuie să se abată o navă stânjenită de pescajul său?",
+    "Answers": [
+      {
+        "Text": "navelor cu vele.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navelor nestăpâne pe manevra lor.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navelor petrolier sau navelor care transportă gaze lichefiate.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Căror nave li se aplică regulile de conducerea navelor pe vizibilitate redusă?",
+    "Answers": [
+      {
+        "Text": "navelor care navigă în interiorul zonelor de vizibiliate redusă şi numai una dintre ele nu o vede pe cealaltă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navelor care nu se văd una pe alta şi care navigă înlăuntrul sau în apropierea zonelor de vizibilitate redusă.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navelor care navigă în interiorul sau în apropierea zonelor de vizibilitate redusă şi observă una la alta numai luminile de catarg.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Cu ce viteză trebuie să navige o navă în condiţii de vizibilitate redusă?",
+    "Answers": [
+      {
+        "Text": "cu viteză redusă şi veghe la prova.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu viteză economică, dar cu radarul în funcţiune şi cu o veghe corespunzătoare, pentru a evita pericolul de coliziune.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu o viteză de siguranţă adaptată împrejurărilor existente şi condiţiilor de vizibilitate redusă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Când se vor respecta regulile referitoare la \"lumini şi semne\"?",
+    "Answers": [
+      {
+        "Text": "în marş ziua şi noaptea.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pe orice vreme.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "în staţionare ziua şi noaptea.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "În ce perioadă sunt respectate regulile referitoare la lumini?",
+    "Answers": [
+      {
+        "Text": "pe timpul nopţii.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pe timpul nopţii şi pe vizibilitate redusă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de la apusul la răsăritul soarelui.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Pe timpul zilei se vor respecta regulile cu privire la:",
+    "Answers": [
+      {
+        "Text": "lumini.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "semne.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lumini şi semne.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când mai pot fi purtate luminile prevăzute de reguli?",
+    "Answers": [
+      {
+        "Text": "de la răsăritul la apusul soarelui, pe timp cu vizibilitate redusă, în toate împrejurările în care",
+        "IsCorrect": true
+      },
+      {
+        "Text": "când vizibilitatea este sub 3 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "în srâmtori, când vizibiliatea este redusă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când se vor respecta regulile referitoare la semne?",
+    "Answers": [
+      {
+        "Text": "în timpul crepusculului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "pe timpul zilei.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ziua sau noaptea, când sunt iluminate.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Lumina albă aşezată deasupra axului longitudinal al navei, arătând o lumină neîntreruptă pe un arc de orizont de 22°5 astfel ca să arate 22°5 înapoia traversului fiecărui bord este:",
+    "Answers": [
+      {
+        "Text": "lumina de pupa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumina de catarg.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lumina de remorcaj.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Lumină verde din tribord şi lumină roşie din babord, vizibile pe un arc de 112°5 adică de la prova până la 22°5 înapoia traversului, reprezintă ceea ce se înţelege prin expresia:",
+    "Answers": [
+      {
+        "Text": "lumină de bord.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lumină de pupa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumină de remorcaj.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia \"lumină de catarg\"?",
+    "Answers": [
+      {
+        "Text": "orice lumină albă instalată pe catargul unei nave la o înălţime prevăzută de normele din registru.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "orice lumină albă vizibilă pe tot orizontul.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină albă aşezată deasupra axului longitudinal al navei, arătând o lumină neîntreruptă pe un arc de orizont de 225°, astfel ca să arate 22°5 înapoia traversului fiecărui bord.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia \"lumină de bord\"?",
+    "Answers": [
+      {
+        "Text": "lumină verde din tribord şi lumină roşie din babord, vizibile pe un arc de 112°5, adică la",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lumină albă din borduri, de la scările de acces.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumină albă de la scările exterioare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Lumina albă aşezată cât mai aproape posibil în pupa, arătând o lumină neîntreruptă pe un arc de 135° câte 67°5 în fieare bord este:",
+    "Answers": [
+      {
+        "Text": "lumina de ancoră pupa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumina de remorcaj.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumina de pupa.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia \"lumină de pupa\"?",
+    "Answers": [
+      {
+        "Text": "o lumină albă instalată la pupa unei nave.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină aşezată cât mai aproape posibil în pupa, arătând o lumină neîntreruptă pe un arc de 135°, câte 67°5 în fiecare bord.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o lumină albă instalată la pupa, care arată ca o lumină întreruptă pe un arc de cerc de 135°, câte 67°5 în fiecare bord.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Lumina galbenă aşezată cât mai aproape posibil în pupa arătând o lumină de 135°, câte 67°5 în fiecare bord este:",
+    "Answers": [
+      {
+        "Text": "lumina de pupa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumina de remorcaj.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lumina de ancoră pupa.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Trei lumini în poziţie verticală din care luminile de sus şi de jos roşii şi lumina din mijloc albă sunt luminile purtate de o navă:",
+    "Answers": [
+      {
+        "Text": "cu capacitate de manevră redusă când nu este în marş.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "nestăpână pe manevra sa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "stânjenită de pescajul ei când nu este în marş.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia \"lumină de remorcaj\"?",
+    "Answers": [
+      {
+        "Text": "o lumină albă aşezată deasupra luminii de la pupa după care se guvernează în timpul remorcajului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină galbenă neîntreruptă vizibilă la 360°.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină galbenă aşezată cât mai aproape posibil de pupa, arătând o lumină neîntreruptă pe un arc de cerc de 135°, câte 67°5 în fiecare bord.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Luminile roşu-alb-roşu dispuse pe verticală, lumina de ancoră de la pupa sunt luminile purtate de o navă:",
+    "Answers": [
+      {
+        "Text": "nestăpână pe manevră la ancoră.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu capacitate de manevră redusă la ancoră.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "stânjenită de pescajul ei la ancoră.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Lumina neîntreruptă pe un arc de orizont de 360° este:",
+    "Answers": [
+      {
+        "Text": "lumina de catarg.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumină cu sclipiri regulate.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumină vizibilă pe întreg orizontul.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Trei semne suprapuse din care semnul superior şi inferior câte o bulă, iar cel din mijloc un bicon sunt semnele purtate de o navă:",
+    "Answers": [
+      {
+        "Text": "nestăpână pe manevra sa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "stânjenită de pescajul ei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu capacitate de manevră redusă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia \"lumină vizibilă pe întreg orizontul\"?",
+    "Answers": [
+      {
+        "Text": "lumină neîntreruptă pe un arc de de orizont de 360°",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lumină neîntreruptă vizibilă la prova şi în borduri.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumină neîntreruptă vizibilă pe un arc de orizont de 180°",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "O lumină cu sclipiri regulate a cărei frecvenţă este de 120 sclipiri pe minut sau mai mult, reprezintă ceea ce se înţelege prin expresia:",
+    "Answers": [
+      {
+        "Text": "lumină de bord.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumină cu sclipiri.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lumină de remorcaj.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "O bulă la prova şi trei semne dispuse vertical, dintre care semnul superior şi inferior bule şi cel din mijloc bicon, montate în locul cel mai vizibil sunt semnele purtate de o navă:",
+    "Answers": [
+      {
+        "Text": "cu capacitate de manevră redusă la ancoră.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "stânjenită de pescajul ei la ancoră.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nestăpână pe manevră la ancoră.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia \"lumină cu sclipiri\"?",
+    "Answers": [
+      {
+        "Text": "o lumină cu sclipiri regulate cu frecvenţa de 60 sclipiri pe minut.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină cu sclipiri regulate cu frecvenţa de 120 sclipiri pe minut sau mai mult.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o lumină cu sclipiri regulate foarte repezi.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă luminile de la catarge pentru navele cu lungimea între 12 şi 20 m?",
+    "Answers": [
+      {
+        "Text": "1-2 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă luminile de la catarge pentru navele cu lungimea mai mică de 12 m?",
+    "Answers": [
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 Mm.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "1 Mm.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Un cilindru negru reprezintă semnul purtat de o navă:",
+    "Answers": [
+      {
+        "Text": "stânjenită de pescajul său.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "cu capacitate de manevră redusă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nestăpână pe manevră",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă luminile din borduri pentru navele cu o lungime între 12 şi 50 m?",
+    "Answers": [
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 Mm.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "1,5 Mm.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă luminile din borduri pentru navele cu o lungime mai mică de 12 m?",
+    "Answers": [
+      {
+        "Text": "2 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "0,5 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1 Mm.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă lumina din pupa pentru navele cu o lungime între 12 şi 50 m?",
+    "Answers": [
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 Mm.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "1 Mm.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă lumina din pupa pentru navele cu o lungime mai mică de 12 m?",
+    "Answers": [
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1,5 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 Mm.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă lumina de remorcaj pentru navele cu o lungime mai mare de 50 m?",
+    "Answers": [
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "4 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "3,5 Mm.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă lumina de remorcaj pentru navele cu o lungime între 12 şi 50 m?",
+    "Answers": [
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 Mm.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "5 Mm.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă lumina de remorcaj pentru navele cu o lungime mai mică de 12 m?",
+    "Answers": [
+      {
+        "Text": "1 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 Mm.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "La 2 Mm se văd luminile albe, roşii, verzi sau galbene pe întreg orizontul la navele:",
+    "Answers": [
+      {
+        "Text": "cu lungimea mai mare de 50 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu lungimea mai mică de 100 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu lungimea între 12 şi 20 m.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă lumina albă, roşie, verde sau galbenă vizibilă pe întreg orizontul, pentru navele cu lungimea între 12 şi 50 m?",
+    "Answers": [
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2 Mm.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "1 Mm.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini trebuie să poarte o navă cu pernă de aer în exploatare fără pescaj?",
+    "Answers": [
+      {
+        "Text": "aceleaşi lumini ca o navă cu propulsie mecanică în marş.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină galbenă cu sclipiri vizibile pe tot orizontul.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "luminile unei nave cu propulsie mecanică în marş plus o lumină galbenă cu sclipiri vizibilă pe tot orizontul.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini trebuie să poarte o navă cu propulsie mecanică în marş cu lungimea mai mare de 7 m şi a cărei viteză depăşeşte 7 Nd?",
+    "Answers": [
+      {
+        "Text": "o lumină albă vizibilă peste tot orizontul şi dacă este posibil şi luminile din borduri.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "luminile din borduri.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină albă care poate fi ridicată la nevoie.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce distanţă trebuie să se vadă lumina albă vizibilă pe tot orizontul, a unei nave sau obiect de formă nedefinită, parţial în imersiune, care este remorcat?",
+    "Answers": [
+      {
+        "Text": "3 Mm.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "2Mm.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1 Mm.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini trebuie să poarte obiectele sau navele remorcate, altele decât cele cu forma nedefinită?",
+    "Answers": [
+      {
+        "Text": "luminile de catarg şi lumina de pupa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "luminile din borduri şi lumina de pupa.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "luminile de remorcher şi lumina de pupa.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini trebuie să poarte o navă împinsă înainte când formează o singură unitate?",
+    "Answers": [
+      {
+        "Text": "trebuie să poarte la extremitatea prova luminile din borduri.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "lumina de catarg şi luminile din borduri.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumină de catarg şi lumină de pupa.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini tebuie să poarte o navă remorcată la ureche?",
+    "Answers": [
+      {
+        "Text": "luminile de catarg şi lumina de pupa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "lumina de pupa şi luminile din borduri la extremitatea prova.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "luminile de borduri la extremitatea prova.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Luminile din borduri şi lumina din pupa sunt luminile pe care le poartă o navă:",
+    "Answers": [
+      {
+        "Text": "în seviciul de pilotaj şi este în marş.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu vele când este la ancoră.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu vele în marş.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini poartă o navă cu vele în marş?",
+    "Answers": [
+      {
+        "Text": "luminile din borduri.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "luminile de catarg şi luminile din borduri.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "luminile din borduri şi lumina de pupa.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Luminile din borduri şi lumina din pupa, reunite într-un felinar este purtat de :",
+    "Answers": [
+      {
+        "Text": "o navă cu vele mai mică de 7 m, în marş.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o navă cu rame.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o navă cu vele la ancoră.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini poartă o navă cu vele în marş, mai mică de 20 m?",
+    "Answers": [
+      {
+        "Text": "luminile din borduri şi lumina din pupa, pe care le poate reuni într-un felinar.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "luminile din borduri.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină albă pe care să o arate la nevoie.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La măr sau în partea superioară a catargului, în locul cel mai vizibil, trebuie să poarte felinarul combinat o navă cu vele în marş, cu o lungime mai mică de:",
+    "Answers": [
+      {
+        "Text": "30 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "20 m.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "15 m.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Unde trebuie să poarte felinarul combinat o navă cu vele în marş mai mică de 20 m?",
+    "Answers": [
+      {
+        "Text": "poate să-l ţină oriunde şi să-l arate numai la nevoie.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la măr sau la partea superioară a catargului, în locul cel mai vizibil.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "la bastonul prova.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care sunt luminile suplimentare pe care le poate purta o navă cu vele în marş?",
+    "Answers": [
+      {
+        "Text": "la măr o lumină verde vizibilă pe tot orizontul.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la măr o lumină roşie vizibilă pe tot orizontul.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la măr sau la partea superioară a catargului o lumină roişie deasupra unei lumini verzi, vizibile pe tot orizontul.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Nava care trebuie să fie gata să arate în orice moment o lanternă electrică sau un felinar aprins cu o lumină albă este nava cu vele, în marş, cu o lungime mai mică de:",
+    "Answers": [
+      {
+        "Text": "15 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "10 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "7 m.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini poartă o navă cu vele, mai mică de 7 m, în marş?",
+    "Answers": [
+      {
+        "Text": "trebuie să fie gata să arate în orice moment o lanternă electrică sau un felinar aprins cu",
+        "IsCorrect": true
+      },
+      {
+        "Text": "luminile din borduri.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină albă la catarg.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce lumini trebuie să poarte o navă cu rame?",
+    "Answers": [
+      {
+        "Text": "o lampă albastră care să poată fi arătată oricând.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o lumină roşie.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "dacă nu poartă luminile unei nave cu vele, să fie pregătiră să arate o lanternă electrică sau un felinar cu lumină albă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "La prova, în locul cel mai vizibil, un con cu vârful în jos este semnul purtat pe timp de zi de:",
+    "Answers": [
+      {
+        "Text": "o navă care pescuieşte şi ale cărei unelte se întind pe o distanţă orizontală mai mare de 150 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o navă care navigă în acelaşi timp cu vele şi cu ajutorul unui aparat propulsor.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "o navă sau obiect remorcat care este parţial în imersiune şi greu de observat.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semn trebuie să poarte o navă care navigă în acelaşi timp cu vele şi cu ajutorul unui aparat propulsor?",
+    "Answers": [
+      {
+        "Text": "la prova, în locul cel mai vizibil, un con cu vârful în jos.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un bicon în locul cel mai vizibil.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "două conuri negre vârf la vârf.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Două lumini suprapuse, vizibile pe tot orizontul, lumina superioară verde şi ce inferioară albă, o lumină de catarg aşezată la o înălţime mai mare decât lumina verde şi înapoia acesteia sunt luminile purtate de:",
+    "Answers": [
+      {
+        "Text": "o navă angajată în operaţiuni de deminare.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o navă cu vele în marş.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "o navă care traulează şi nu este în marş.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semne poartă o navă ancorată?",
+    "Answers": [
+      {
+        "Text": "o bulă ridicată la prova.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un bicon instalat la prova.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un con negru instalat la prova.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Unde trebuie instalate semnele şi luminile navelor eşuate?",
+    "Answers": [
+      {
+        "Text": "la prova.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "la catargul pupa.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "în locul cel mai vizibil.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Când nu sunt obligate navele mai mici de 7 m lungime să poarte lumini de navă ancorată?",
+    "Answers": [
+      {
+        "Text": "când sunt la ancoră dar nu într-un canal navigabil îngust, pase de intrare în port sau rade de ancorare.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "când sunt ancorate într-un bazin portuar.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "când sunt la ancoră şi în radă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Căror nave eşuate nu li se cere să poarte luminile şi semnele speciale de navă eşuată?",
+    "Answers": [
+      {
+        "Text": "nave cu lungime mai mică de 7 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nave cu lungime mai mică de 15 m.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "nave cu lungime mai mică de 12 m.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce este \"sunetul scurt\"?",
+    "Answers": [
+      {
+        "Text": "un sunet cu o durată de 2-3 secunde, emis de o navă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un sunet emis de o navă propulsată, în marş, cu o durată mică, sub o secundă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un sunet a cărui durată este de aproximativ o secundă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce se înţelege prin expresia \"sunet lung\"?",
+    "Answers": [
+      {
+        "Text": "un sunet a cărui durată este de 4-6 secunde.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un sunet emis de o navă propulsată, în marş, cu o durată de peste 6 secunde.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un sunet sonor emis de o navă cu o durată de 2-3 secunde.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce echipament de semnalizare sonoră trebuie să aibă o navă cu lungimea între 12 şi 100m?",
+    "Answers": [
+      {
+        "Text": "un singur fluier în mijlocul navei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un clopot la prova sau pupa navei.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un fluier şi un clopot.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce echipament de semnalizare sonoră trebuie să aibă o navă sub 12 m lungime?",
+    "Answers": [
+      {
+        "Text": "navele sub 12 m lungime nu sunt obligate să aibă echipament de semnalizare sonoră.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navele sub 12 m lungime sunt obligate să aibă un fluier şi un clopot la prova.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navele sub 12 m lungime nu sunt obligate să aibă la bord echipamentul de semnalizare prescris, în lipsa lui să fie dotate cu un alt mijloc de emitere a unui semnal sonor eficace.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Când se emit semnalele sonore de manevră?",
+    "Answers": [
+      {
+        "Text": "în orice situaţii.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "când navele se văd unele pe altele.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "pe timp de vizibilitate redusă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnal sonor se emite pentru indicarea manevrei \"vin la tribord\"?",
+    "Answers": [
+      {
+        "Text": "un sunet scurt.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un sunet scurt, urmat de un sunet lung.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "două sunete lungi, urmate de unul scurt.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnal sonor se emite pentru indicarea manevrei \"vin la babord\"?",
+    "Answers": [
+      {
+        "Text": "un sunet lung şi două scurte.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "două sunete scurte.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "două sunete lungi, urmate de două sunete scurte.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnal sonor se emite pentru indicarea manevrei \"am maşina înapoi\"?",
+    "Answers": [
+      {
+        "Text": "un sunet lung şi trei sunete scurte.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "trei sunete scurte precedate şi urmate de un sunet lung.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "trei sunete scurte.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Cu ce se pot completa semnalele sonore emise cu fluierul, pentru a indica o manevră ce se execută?",
+    "Answers": [
+      {
+        "Text": "cu semnale luminoase.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "cu orice alte semnale.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "cu una sau două bule negre ridicate la catarg.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "La ce interval de timp se pot da semnalele necesare luminoase pentru repetarea manevrei?",
+    "Answers": [
+      {
+        "Text": "la cel puţin 10 secunde.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "după minim un minut.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "de câte ori este nevoie.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnale dă o navă care îşi dă acordul în legătură cu manevra de depăşire pe care urmează să o facă altă navă?",
+    "Answers": [
+      {
+        "Text": "un sunet lung şi 5 sunete scurte.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un sunet lung, un sunet scurt, un sunet lung şi unul scurt (litera C)",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un sunet scurt pentru tribord şi 2 sunete scurte pentru babord.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când se emit semnalele sonore pentru vizibilitate redusă?",
+    "Answers": [
+      {
+        "Text": "numai ziua, pe vizibilitate redusă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "noaptea pe timp de ceaţă.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "atât ziua cât şi noaptea, pe vizibilitate redusă.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Când se emit semnalele sonore pe vizibilitate redusă?",
+    "Answers": [
+      {
+        "Text": "înlăuntrul sau în apropierea zonei în care vizibilitatea este redusă.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "înlăuntrul unei zone în care vizibilitatea este redusă",
+        "IsCorrect": false
+      },
+      {
+        "Text": "numai pe timp de ceaţă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnal sonor emite o navă cu capacitatea de manevră redusă pe vizibilitate redusă?",
+    "Answers": [
+      {
+        "Text": "un sunet lung urmat de trei sunete scurte la intervale de 2 minute.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "3 sunete scurte precedate şi urmate de un sunet lung, la intervale de 2 minute.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un sunete lung urmat de 2 sunete scurte la intervale nu mai mari de 2 minute.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnale sonore vor emite navele stânjenite de pescajul lor pe vizibilitate redusă?",
+    "Answers": [
+      {
+        "Text": "un sunet lung urmat de două sunete scurte, la intervale nu mai mari de 2 minute.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un sunet lung precedat şi urmat de un sunet scurt la intervale de un minut.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "5 sunete scurte la intervale de 2 minute.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnale sonore emite o navă cu vele pe vizibilitate redusă?",
+    "Answers": [
+      {
+        "Text": "un sunet lung dat cu sirena, la intervale de un minut.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "4 sunete scurte la intervale de două minute.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un sunet lung urmat de 2 sunete scurte, la intervale ce nu vor fi mai mari de 2 minute.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Ce obligaţii are o navă mai mică de12 m, pe vizibilitate redusă, în cazul în care nu poate emite semnale prescrise de Regulament?",
+    "Answers": [
+      {
+        "Text": "să emită cu fluierul un semnal sonor format din 5 sunete la interval de un minut.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "să emită un semnal sonor eficace la intervale care să nu depăşească 2 minute.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "să emită cu gongul bătăi repezi la interval de maxim un minut.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care este semnalul de pericol din Codul Internaţional de Semnale?",
+    "Answers": [
+      {
+        "Text": "\"N.C\"",
+        "IsCorrect": true
+      },
+      {
+        "Text": "\"P.\"",
+        "IsCorrect": false
+      },
+      {
+        "Text": "\"O.\"",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care poate fi considerat semnal de pericol?",
+    "Answers": [
+      {
+        "Text": "un pavilion având deasupra sau dedesubt o bulă sau un obiect",
+        "IsCorrect": true
+      },
+      {
+        "Text": "3 bule negre vertical.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un pavilion roşu (B).",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Care poate fi considerat semnal de pericol?",
+    "Answers": [
+      {
+        "Text": "fuzee sau facle de mână care produc lumină roşie.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "fuzee sau facle de mână care produc lumină verde.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "fuzee sau facle de mână care produc lumină albă strălucitoare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce este semnalul de pericol dat cu braţele?",
+    "Answers": [
+      {
+        "Text": "mişcări lente repetate cu braţele, descriind cercuri deasupra capului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ridicarea ambelor braţe vertical deasupra capului.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "mişcări lente şi repetate de sus în jos a braţelor întinse lateral.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Statement": "Care este semnalul de alarmă radiotelefonică?",
+    "Answers": [
+      {
+        "Text": "un semnal bitonal continuu.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "un semnal de ton continuu.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "un semnal compus din tonuri scurte, continuu.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce nave pot folosi zonele de navigaţie de trafic costier?",
+    "Answers": [
+      {
+        "Text": "navele cu o lungime mai mică de 20 m, navele cu vele şi navele angajate în operaţiuni de",
+        "IsCorrect": true
+      },
+      {
+        "Text": "navele ce aparţin ţării riverane.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "navele cu capacitate de manevră redusă.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Când pot folosi navele zonele de navigaţie de trafic costier?",
+    "Answers": [
+      {
+        "Text": "pentru evitarea unui pericol evident.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "când sunt considerate nave privilegiate.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "când sunt nave stânjenite de pescajul lor.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnificaţie au semnele aprobate transmise prin sisteme de radiocomunicaţii?",
+    "Answers": [
+      {
+        "Text": "sunt considerate semnale de pericol.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "sunt considerate semnale de test.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sunt considerate semnale de avertizare.",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Statement": "Ce semnificaţie au semnalele transmise de SART-urile mijlocelor de salvare?",
+    "Answers": [
+      {
+        "Text": "sunt considerate semnale de atragere a atenţiei.",
+        "IsCorrect": true
+      },
+      {
+        "Text": "sunt considerate semnale de avertizare.",
+        "IsCorrect": false
+      },
+      {
+        "Text": "sunt considerate semnale de pericol.",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

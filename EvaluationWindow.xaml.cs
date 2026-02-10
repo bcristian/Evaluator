@@ -170,7 +170,10 @@ namespace Evaluator
 
             _reviewMode = true;
             TimePanel.Visibility = Visibility.Collapsed;
-            ResultPanel.Visibility = Visibility.Visible;
+            ResultBorder.Visibility = Visibility.Visible;
+            ResultBorder.Background = passed
+                ? new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(224, 247, 224))
+                : new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(255, 221, 221));
             ResultTitleText.Text = passed ? "Passed" : "Not passed";
             ResultScoreText.Text = $"Correct: {correct} of {_session.Questions.Count} (required: {_session.Definition.RequiredCorrectToPass})";
             var duration = (_session.FinishedAt!.Value - _session.StartedAt);

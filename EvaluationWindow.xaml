@@ -23,11 +23,14 @@
             <TextBlock x:Name="RemainingText" Text="--:--"/>
         </StackPanel>
         <!-- Result (review mode) -->
-        <StackPanel x:Name="ResultPanel" Grid.Row="0" Visibility="Collapsed" Margin="0,0,0,12">
-            <TextBlock x:Name="ResultTitleText" FontSize="16" FontWeight="SemiBold"/>
-            <TextBlock x:Name="ResultScoreText" Margin="0,4,0,0"/>
-            <TextBlock x:Name="ResultTimeText"/>
-        </StackPanel>
+        <Border x:Name="ResultBorder" Grid.Row="0" Visibility="Collapsed" Margin="0,0,0,12"
+                CornerRadius="6" Padding="14" BorderThickness="1" BorderBrush="#999">
+            <StackPanel x:Name="ResultPanel">
+                <TextBlock x:Name="ResultTitleText" FontSize="16" FontWeight="SemiBold"/>
+                <TextBlock x:Name="ResultScoreText" Margin="0,4,0,0"/>
+                <TextBlock x:Name="ResultTimeText"/>
+            </StackPanel>
+        </Border>
 
         <!-- Question number -->
         <TextBlock Grid.Row="1" x:Name="QuestionNumberText" Text="Question 1 of N" Margin="0,0,0,8"/>
@@ -50,6 +53,14 @@
                                             <DataTrigger Binding="{Binding IsCorrect}" Value="True">
                                                 <Setter Property="Background" Value="#e0f7e0"/>
                                             </DataTrigger>
+                                            <MultiDataTrigger>
+                                                <MultiDataTrigger.Conditions>
+                                                    <Condition Binding="{Binding IsReadOnly}" Value="True"/>
+                                                    <Condition Binding="{Binding IsCorrect}" Value="False"/>
+                                                    <Condition Binding="{Binding IsSelected}" Value="True"/>
+                                                </MultiDataTrigger.Conditions>
+                                                <Setter Property="Background" Value="#ffdddd"/>
+                                            </MultiDataTrigger>
                                         </Style.Triggers>
                                     </Style>
                                 </Border.Style>
